@@ -7,6 +7,7 @@ Paper-trading research experiment. Tests whether a three-role AI process (Desk, 
 - Market data only from scripts/prices.py. Current source: Yahoo Finance (yfinance) only. No CSVs. An IBKR feed may be added later as READ-ONLY market data, only after a dated entry in rules.md section 9. Order, account and trading endpoints stay forbidden.
 - Every number or fact in an idea card carries a source URL and a retrieval date. If it cannot be verified, label it UNVERIFIED and exclude it from the thesis.
 - Never state a price from memory. Prices come from `python3 scripts/prices.py TICKER`. If the script fails, say so and stop. Do not substitute another source.
+- SEC data only through scripts/sec.py (read-only). Its contact comes from SEC_USER_AGENT or the git-ignored .sec_user_agent file. Never send the user's email or any personal detail anywhere else.
 - Be honest about uncertainty. Do not praise ideas. Do not invent catalysts.
 - rules.md is FROZEN once approved. Never edit it unless the user says so; log every change in its section 9 with date and reason.
 - No row is written to ledger.csv until the user replies "approved" to a /decide output. Use scripts/record_trade.py to write rows, never hand-edit.

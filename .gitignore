@@ -1,3 +1,4 @@
 __pycache__/
 tests/out/
 tests/out_live/
+.sec_user_agent
