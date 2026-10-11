@@ -1,0 +1,41 @@
+Symbol,Name,Group
+SPY,SPDR S&P 500,broad
+QQQ,Invesco QQQ,broad
+IWM,iShares Russell 2000,broad
+DIA,SPDR Dow Jones,broad
+RSP,Invesco S&P 500 Equal Weight,broad
+XLB,Materials Select Sector SPDR,sector
+XLC,Communication Services Select Sector SPDR,sector
+XLE,Energy Select Sector SPDR,sector
+XLF,Financial Select Sector SPDR,sector
+XLI,Industrial Select Sector SPDR,sector
+XLK,Technology Select Sector SPDR,sector
+XLP,Consumer Staples Select Sector SPDR,sector
+XLRE,Real Estate Select Sector SPDR,sector
+XLU,Utilities Select Sector SPDR,sector
+XLV,Health Care Select Sector SPDR,sector
+XLY,Consumer Discretionary Select Sector SPDR,sector
+SMH,VanEck Semiconductor,industry
+XBI,SPDR S&P Biotech,industry
+KRE,SPDR S&P Regional Banking,industry
+ITB,iShares U.S. Home Construction,industry
+XRT,SPDR S&P Retail,industry
+JETS,U.S. Global Jets,industry
+XOP,SPDR S&P Oil & Gas Exploration,industry
+TLT,iShares 20+ Year Treasury,rates
+IEF,iShares 7-10 Year Treasury,rates
+SHY,iShares 1-3 Year Treasury,rates
+TIP,iShares TIPS Bond,rates
+HYG,iShares iBoxx High Yield,credit
+LQD,iShares iBoxx Investment Grade,credit
+GLD,SPDR Gold Shares,commodity
+SLV,iShares Silver Trust,commodity
+USO,United States Oil Fund,commodity
+UNG,United States Natural Gas Fund,commodity
+DBA,Invesco DB Agriculture,commodity
+EEM,iShares MSCI Emerging Markets,international
+EFA,iShares MSCI EAFE,international
+FXI,iShares China Large-Cap,international
+EWJ,iShares MSCI Japan,international
+EWZ,iShares MSCI Brazil,international
+UUP,Invesco DB US Dollar Bullish,currency
