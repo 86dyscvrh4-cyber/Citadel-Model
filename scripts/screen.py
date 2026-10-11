@@ -1,4 +1,4 @@
-"""Full-universe screen. Every S&P 500 stock plus the curated ETF list, same rules every run.
+"""Full-universe screen. Every S&P 500 and S&P MidCap 400 stock plus the curated ETF list, same rules every run.
 
 Usage:
   python3 scripts/screen.py [--top 25] [--exclude-top-mcap 0] [--days-8k 5] [--max-days-to-event 30]
@@ -45,12 +45,15 @@ def yahoo_symbol(s):
 
 
 def load_universe():
-    sp = pd.read_csv(ROOT / "data/sp500_constituents.csv")
-    sp = pd.DataFrame({"symbol": sp["Symbol"], "name": sp["Security"], "sector": sp["GICS Sector"],
-                       "cik": sp["CIK"], "kind": "stock"})
+    frames = []
+    for f, idx in [("sp500_constituents.csv", "S&P 500"), ("sp400_constituents.csv", "S&P 400")]:
+        d = pd.read_csv(ROOT / "data" / f)
+        frames.append(pd.DataFrame({"symbol": d["Symbol"], "name": d["Security"], "sector": d["GICS Sector"],
+                                    "cik": pd.to_numeric(d["CIK"], errors="coerce"), "kind": "stock", "index": idx}))
+    sp = pd.concat(frames, ignore_index=True)
     etf = pd.read_csv(ROOT / "data/etfs.csv")
     etf = pd.DataFrame({"symbol": etf["Symbol"], "name": etf["Name"], "sector": "ETF:" + etf["Group"],
-                        "cik": np.nan, "kind": "etf"})
+                        "cik": np.nan, "kind": "etf", "index": "ETF"})
     u = pd.concat([sp, etf], ignore_index=True).drop_duplicates("symbol")
     u["ysym"] = u["symbol"].map(yahoo_symbol)
     return u
@@ -150,13 +153,17 @@ def metrics(d):
     }, r
 
 
+def num(v):
+    return 0 if v is None or pd.isna(v) else v
+
+
 def crowding(row):
     score = 1
-    if (row["market_cap"] or 0) >= 1e12:
+    if num(row["market_cap"]) >= 1e12:
         score += 2
-    if (row["short_pct_float"] or 0) >= 0.10:
+    if num(row["short_pct_float"]) >= 0.10:
         score += 1
-    if (row["analysts"] or 0) >= 40:
+    if num(row["analysts"]) >= 40:
         score += 1
     return min(score, 5)
 
@@ -195,7 +202,7 @@ def main():
     for _, x in u.iterrows():
         d = px.get(x.ysym)
         if d is None:
-            rows.append({"symbol": x.symbol, "name": x["name"], "kind": x.kind, "sector": x.sector,
+            rows.append({"symbol": x.symbol, "name": x["name"], "kind": x.kind, "index": x["index"], "sector": x.sector,
                          "status": "NO_PRICE_DATA"})
             continue
         m, r = metrics(d)
@@ -210,7 +217,7 @@ def main():
                 sd = resid.iloc[-63:].std()
                 resid_z = float(resid.iloc[-5:].sum() / (sd * math.sqrt(5))) if sd else np.nan
         ciks = filings.get(int(x.cik), []) if not pd.isna(x.cik) else []
-        rows.append({"symbol": x.symbol, "ysym": x.ysym, "name": x["name"], "kind": x.kind,
+        rows.append({"symbol": x.symbol, "ysym": x.ysym, "name": x["name"], "kind": x.kind, "index": x["index"],
                      "sector": x.sector, "status": "OK", **m, "resid_z_5d": resid_z,
                      "new_8k_dates": ";".join(ciks), "new_8k": len(ciks)})
 
@@ -229,7 +236,7 @@ def main():
     for col in ["earnings_date", "market_cap", "short_pct_float", "analysts"]:
         changed[col] = changed["ysym"].map(lambda y: meta.get(y, {}).get(col))
     changed["days_to_earnings"] = changed["earnings_date"].map(
-        lambda e: (pd.Timestamp(e).date() - today).days if e else np.nan)
+        lambda e: (pd.Timestamp(e).date() - today).days if isinstance(e, str) and e else np.nan)
     changed["crowding"] = changed.apply(crowding, axis=1)
     no_meta = changed[(changed.kind == "stock") & changed.earnings_date.isna()]
     mega = changed[(changed.kind == "stock") & (changed.market_cap.fillna(0) >= a.exclude_mega * 1e12)] if a.exclude_mega else changed.iloc[0:0]
@@ -250,7 +257,7 @@ def main():
 
     lines = [f"# Screen {today} (prices as of {asof.date()})", "",
              "## Funnel",
-             f"- universe: {f0} ({(df.kind == 'stock').sum()} S&P 500 stocks, {(df.kind == 'etf').sum()} ETFs)",
+             f"- universe: {f0} ({(df['index'] == 'S&P 500').sum()} S&P 500, {(df['index'] == 'S&P 400').sum()} S&P 400 midcaps, {(df.kind == 'etf').sum()} ETFs)",
              f"- with price data: {len(ok)}  (no data: {', '.join(df[df.status != 'OK'].symbol) or 'none'})",
              f"- liquidity >= ${rules['min_adv_usd'] / 1e6:.0f}M/day: {len(f1)}",
              f"- something changed (|5d resid z| >= 2, |1d z| >= 3, volume >= 2x, or new 8-K in {a.days_8k} days): {len(changed)}",
@@ -261,13 +268,13 @@ def main():
              "Score = max(|sector-residual 5d z|, |1d z| / 1.5) + (volume spike - 1) + 0.5 if new 8-K - 0.25 x (crowding - 1).",
              "Earnings dates are Yahoo's and may be estimates. Crowding 1 to 5 is a heuristic: +2 market cap >= $1T, +1 short >= 10% of float, +1 analysts >= 40.",
              "", "## Shortlist", "",
-             "| # | symbol | sector | 1d | 1d z | 5d | 5d resid z | vol x | earnings (days) | new 8-K | crowd | close |",
-             "|---|---|---|---|---|---|---|---|---|---|---|---|"]
+             "| # | symbol | index | sector | 1d | 1d z | 5d | 5d resid z | vol x | earnings (days) | new 8-K | crowd | close |",
+             "|---|---|---|---|---|---|---|---|---|---|---|---|---|"]
     for i, (_, s) in enumerate(short.iterrows(), 1):
         ev = f"{s.earnings_date} ({int(s.days_to_earnings)})" if pd.notna(s.days_to_earnings) else "unknown"
         if pd.notna(s.days_to_earnings) and s.days_to_earnings < 0:
             ev += " reported"
-        lines.append(f"| {i} | {s.symbol} | {s.sector} | {pct(s.ret_1d)} | {s.z_1d:+.1f} | {pct(s.ret_5d)} | {s.move_z:+.1f} | {s.vol_spike:.1f} | {ev} | {s.new_8k_dates or ''} | {int(s.crowding)} | {s.close:.2f} |")
+        lines.append(f"| {i} | {s.symbol} | {s['index']} | {s.sector} | {pct(s.ret_1d)} | {s.z_1d:+.1f} | {pct(s.ret_5d)} | {s.move_z:+.1f} | {s.vol_spike:.1f} | {ev} | {s.new_8k_dates or ''} | {int(s.crowding)} | {s.close:.2f} |")
     (out / f"{today}.md").write_text("\n".join(lines) + "\n")
     print("\n".join(lines))
     print(f"\nfull table: screens/{today}_full.csv")

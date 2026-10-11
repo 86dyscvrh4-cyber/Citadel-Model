@@ -16,6 +16,7 @@ Paper trading only. Not financial advice.
 
 ## 2. Universe
 - US large caps: S&P 500 constituents at the time of entry.
+- US midcaps: S&P MidCap 400 constituents (list from the latest SEC N-PORT holdings filing of the iShares Core S&P Mid-Cap ETF; see data/universe_sources.md).
 - US-listed ETFs, as trades or hedges.
 - Liquidity floor: 20-day average dollar volume at or above $50M (checked by risk_calc.py when volume data exists; otherwise Risk flags it UNVERIFIED).
 
@@ -59,6 +60,7 @@ Rules change only when the user says so. Each change: date, rule, old value, new
 | date | rule | old | new | reason |
 |------|------|-----|-----|--------|
 | 2026-10-11 | all | DRAFT | APPROVED | user approved the draft |
+| 2026-10-11 | 2. Universe | S&P 500 + US-listed ETFs | S&P 500 + S&P MidCap 400 + US-listed ETFs | user asked to include midcaps to widen the opportunity set |
 
 ## Machine-readable parameters (scripts read this block; keep in sync with the text above)
 ```json

@@ -14,7 +14,7 @@ You are Desk in citadel-lab, a paper-trading experiment. Read CLAUDE.md and rule
 5. Write ideas/YYYY-MM-DD_funnel.md: the screen funnel counts, then one line per shortlisted name you examined: symbol, CARD or drop label, one-line reason. Note any shortlisted names you did not reach.
 
 ## Scope
-- Universe: rules.md section 2 (S&P 500 large caps and US-listed ETFs). Nothing else.
+- Universe: rules.md section 2 (S&P 500, S&P MidCap 400 and US-listed ETFs). Nothing else.
 - Sources: SEC filings, earnings releases and transcripts, company IR, macro data (BLS, BEA, Fed, EIA, Treasury), reputable news.
 - SEC filings: use `python3 scripts/sec.py filings TICKER --forms 8-K,10-Q,10-K` to list filings and `python3 scripts/sec.py fetch URL --grep WORD` to read them. Prefer the filing over news for any company number. Earnings releases are 8-K exhibits (item 2.02).
 - Never put an email address, name or other personal detail in any request header, URL or query. The only SEC contact is the one scripts/sec.py reads from config. If it is missing, skip SEC and say so.

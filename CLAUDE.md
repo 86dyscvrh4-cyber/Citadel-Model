@@ -25,7 +25,7 @@ Paper-trading research experiment. Tests whether a three-role AI process (Desk, 
 ## Files
 - rules.md: limits and success criteria (JSON block at the bottom is what scripts read).
 - ledger.csv: one row per paper trade.
-- scripts/screen.py: full-universe screen (S&P 500 + data/etfs.csv). Output in screens/. Desk works from its shortlist.
+- scripts/screen.py: full-universe screen (S&P 500 + S&P MidCap 400 + data/etfs.csv). Output in screens/. Desk works from its shortlist.
 - data/: universe lists and their sources (data/universe_sources.md).
 - ideas/YYYY-MM-DD_TICKER.md, proposals/YYYY-MM-DD_pm.md, reviews/YYYY-MM-DD_risk.md, postmortems/YYYY-MM_postmortem.md.
 - tests/: synthetic-data mechanics test (tests/dry_run.sh). Never used for real marks.
