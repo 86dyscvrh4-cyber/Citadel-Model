@@ -7,7 +7,8 @@ Paper trading only. Not financial advice.
 
 ## 1. Book
 - Starting paper capital: $1,000,000.
-- Directions allowed: long and short. Shorts are paper only; no borrow cost modeled.
+- Directions allowed: long and short. Shorts are paper only.
+- Short costs: no borrow fee is charged. Shorts look slightly better than real money would. Once IBKR is set up, a borrow rate from IBKR may be added through a dated entry in section 9.
 - Gross exposure (sum of |position notional|) at or below 100% of book equity. No leverage.
 - No maximum position count. Full deployment at the 5% cap means 20 or more names.
 - Idle cash (equity minus gross exposure, floored at 0) earns a fixed 4.0% annual rate, accrued per trading day (rate / 252).
