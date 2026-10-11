@@ -1,8 +1,7 @@
 """Price data layer. The only place prices come from.
 
-Order of sources: yfinance, then prices/<TICKER>.csv. Raises if neither works.
-Set CITADEL_PRICE_SOURCE=csv to skip yfinance, or CITADEL_PRICES_DIR to point
-at another CSV folder (used by tests).
+Source: Yahoo Finance via yfinance. No other source in normal operation.
+Tests only: CITADEL_PRICE_SOURCE=csv reads CSVs from CITADEL_PRICES_DIR.
 
 CLI: python3 scripts/prices.py TICKER [TICKER ...]  -> latest close, date, source
 """
@@ -56,19 +55,18 @@ def _from_csv(ticker):
 
 def history(ticker, start="2015-01-01"):
     """Daily bars for ticker. Returns (DataFrame, source_label)."""
-    errors = []
-    if os.environ.get("CITADEL_PRICE_SOURCE", "auto") != "csv":
-        try:
-            return _from_yfinance(ticker, start), "yfinance"
-        except Exception as e:  # network blocked, missing module, bad ticker
-            errors.append(f"yfinance: {type(e).__name__}: {str(e)[:120]}")
-    try:
+    if os.environ.get("CITADEL_PRICE_SOURCE") == "csv":
         df = _from_csv(ticker)
         return df[df.index >= pd.Timestamp(start)], f"csv:{_prices_dir() / (ticker.upper() + '.csv')}"
-    except PriceError as e:
-        errors.append(f"csv: {e}")
-    raise PriceError(f"No price data for {ticker}. " + " | ".join(errors) +
-                     f". Supply prices/{ticker.upper()}.csv (date, close [, open, high, low, adj_close, volume]).")
+    try:
+        return _from_yfinance(ticker, start), "yahoo"
+    except Exception as e:  # network blocked, missing module, bad ticker
+        hint = ""
+        if "403" in str(e) or "CONNECT" in str(e):
+            hint = (" Yahoo is blocked by this environment's network policy: allow query1.finance.yahoo.com,"
+                    " query2.finance.yahoo.com, fc.yahoo.com, guce.yahoo.com, consent.yahoo.com"
+                    " under Network access in the environment settings.")
+        raise PriceError(f"No Yahoo data for {ticker}: {type(e).__name__}: {str(e)[:100]}.{hint}")
 
 
 def total_return_series(df):
