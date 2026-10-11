@@ -1,7 +1,7 @@
 # rules.md
 
-STATUS: DRAFT, awaiting user approval. Once approved, this file is FROZEN.
-Approved on: (pending)
+STATUS: APPROVED and FROZEN. Changes only on user instruction, logged in section 9.
+Approved on: 2026-10-11 by the user.
 
 Paper trading only. Not financial advice.
 
@@ -58,6 +58,7 @@ Rules change only when the user says so. Each change: date, rule, old value, new
 
 | date | rule | old | new | reason |
 |------|------|-----|-----|--------|
+| 2026-10-11 | all | DRAFT | APPROVED | user approved the draft |
 
 ## Machine-readable parameters (scripts read this block; keep in sync with the text above)
 ```json
