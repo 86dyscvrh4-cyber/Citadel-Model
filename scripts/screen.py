@@ -63,10 +63,11 @@ def download_prices(symbols):
     import yfinance as yf
     df = yf.download(symbols, period="1y", interval="1d", auto_adjust=False, group_by="ticker",
                      threads=True, progress=False)
+    from prices import _drop_unfinished_bar
     out = {}
     for s in symbols:
         try:
-            d = df[s].dropna(subset=["Close"])
+            d = _drop_unfinished_bar(df[s].dropna(subset=["Close"]))
             if len(d) >= 40:
                 out[s] = d
         except KeyError:

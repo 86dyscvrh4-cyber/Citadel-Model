@@ -53,13 +53,25 @@ def _from_csv(ticker):
     return df[[c for c in COLUMNS if c in df.columns]].astype(float)
 
 
+def _drop_unfinished_bar(df):
+    """Drop today's bar until the US close is final (16:30 ET), so 'close' is never intraday."""
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+
+    now = datetime.now(ZoneInfo("America/New_York"))
+    today = pd.Timestamp(now.date())
+    if (now.hour, now.minute) < (16, 30) and len(df) and df.index[-1] >= today:
+        return df[df.index < today]
+    return df
+
+
 def history(ticker, start="2015-01-01"):
-    """Daily bars for ticker. Returns (DataFrame, source_label)."""
+    """Daily bars for ticker (completed sessions only). Returns (DataFrame, source_label)."""
     if os.environ.get("CITADEL_PRICE_SOURCE") == "csv":
         df = _from_csv(ticker)
         return df[df.index >= pd.Timestamp(start)], f"csv:{_prices_dir() / (ticker.upper() + '.csv')}"
     try:
-        return _from_yfinance(ticker, start), "yahoo"
+        return _drop_unfinished_bar(_from_yfinance(ticker, start)), "yahoo"
     except Exception as e:  # network blocked, missing module, bad ticker
         hint = ""
         if "403" in str(e) or "CONNECT" in str(e):
