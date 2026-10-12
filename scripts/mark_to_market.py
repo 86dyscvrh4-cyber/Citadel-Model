@@ -58,6 +58,9 @@ def main():
         if not book.is_open(r):
             continue
         df, src = prices.history(r["ticker"], start=r["date"])
+        if df.empty:
+            open_lines.append(f"{r['id']} {r['ticker']} {r['direction']} entry {float(r['entry']):.2f} stop {float(r['stop']):.2f}  no completed session since entry yet")
+            continue
         hit = check_stop(r, df)
         if hit:
             px, day = hit
@@ -75,6 +78,11 @@ def main():
             open_lines.append(f"{r['id']} {r['ticker']} {r['direction']} last {last:.2f} ({df.index[-1].date()}) entry {float(r['entry']):.2f} stop {float(r['stop']):.2f}  pnl ${pnl:,.0f}{flag}")
 
     eq = book.equity_series(rows, rules)
+    if eq is None or eq.empty:
+        print("MARK  (paper only)  no completed session since the first entry; equity unchanged")
+        for line in open_lines:
+            print("  OPEN   " + line)
+        return
     last = eq.iloc[-1]
     dd = float(last["drawdown_pct"])
     halt = dd <= -rules["drawdown_halt_pct"]

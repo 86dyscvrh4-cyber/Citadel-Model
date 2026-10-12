@@ -83,6 +83,7 @@ def main():
     rows = book.read_ledger()
     open_rows = [r for r in rows if book.is_open(r)]
     eq = book.equity_series(rows, rules) if rows else None
+    eq = None if eq is None or eq.empty else eq
     equity = float(eq["equity"].iloc[-1]) if eq is not None else float(cap)
     gross_now = float(eq["gross"].iloc[-1]) if eq is not None else 0.0
     existing_pct = {}

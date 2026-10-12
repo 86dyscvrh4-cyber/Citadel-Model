@@ -81,6 +81,35 @@ def history(ticker, start="2015-01-01"):
         raise PriceError(f"No Yahoo data for {ticker}: {type(e).__name__}: {str(e)[:100]}.{hint}")
 
 
+def execution_price(ticker, at="now"):
+    """Paper fill price when the user asks to execute.
+
+    at: "now" or "YYYY-MM-DD HH:MM" (US/Eastern). Uses the close of the 1-minute Yahoo bar
+    containing that time. Outside market hours, falls back to the latest completed close.
+    Returns (price, timestamp_str, source_label).
+    """
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    import yfinance as yf
+
+    if os.environ.get("CITADEL_PRICE_SOURCE") == "csv":  # tests: latest CSV close
+        df, src = history(ticker)
+        return float(df["close"].iloc[-1]), str(df.index[-1].date()) + " close", src
+    et = ZoneInfo("America/New_York")
+    t = datetime.now(et) if at == "now" else datetime.strptime(at, "%Y-%m-%d %H:%M").replace(tzinfo=et)
+    mins = yf.Ticker(ticker).history(start=t.date(), end=pd.Timestamp(t.date()) + pd.Timedelta(days=1),
+                                     interval="1m")
+    if mins is not None and not mins.empty:
+        mins.index = mins.index.tz_convert(et)
+        bar_time = pd.Timestamp(t).floor("min")
+        upto = mins[mins.index <= bar_time]
+        in_session = mins.index[0] <= bar_time <= mins.index[-1] + pd.Timedelta(minutes=1)
+        if len(upto) and in_session:
+            return float(upto["Close"].iloc[-1]), str(upto.index[-1]), "yahoo 1m bar close"
+    df, src = history(ticker)
+    return float(df["close"].iloc[-1]), str(df.index[-1].date()) + " close", src + " daily close (market closed)"
+
+
 def total_return_series(df):
     """Adjusted close if present, else close."""
     if "adj_close" in df.columns and df["adj_close"].notna().all():

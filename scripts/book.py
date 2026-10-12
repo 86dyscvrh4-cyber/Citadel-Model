@@ -92,7 +92,8 @@ def equity_series(rows, rules, end=None):
         return None
     start = min(pd.Timestamp(r["date"]) for r in rows)
     bench = rules["benchmark"]
-    closes = load_closes([r["ticker"] for r in rows] + [bench], start.strftime("%Y-%m-%d"))
+    fetch_from = (start - pd.Timedelta(days=10)).strftime("%Y-%m-%d")  # never request an empty window
+    closes = load_closes([r["ticker"] for r in rows] + [bench], fetch_from)
     closes = closes[closes.index >= start].ffill()
     if end is not None:
         closes = closes[closes.index <= pd.Timestamp(end)]
@@ -121,6 +122,8 @@ def equity_series(rows, rules, end=None):
         recs.append({"date": day, "equity": equity, "gross": gross, "net": net,
                      "cash_interest": interest, bench: px[bench]})
         prev_equity, prev_gross = equity, gross
+    if not recs:
+        return None
     df = pd.DataFrame(recs).set_index("date")
     df["peak"] = df["equity"].cummax()
     df["drawdown_pct"] = (df["equity"] / df["peak"] - 1) * 100

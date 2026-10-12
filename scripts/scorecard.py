@@ -29,6 +29,9 @@ def main():
         return
     bench = rules["benchmark"]
     eq = book.equity_series(rows, rules)
+    if eq is None:
+        print("SCORE  no completed session since the first entry yet.")
+        return
     start, end = eq.index[0].date(), eq.index[-1].date()
     book_ret = (eq["equity"].iloc[-1] / rules["starting_capital"] - 1) * 100
     spy_ret = (eq[bench].iloc[-1] / eq[bench].iloc[0] - 1) * 100

@@ -4,7 +4,8 @@ Open:  python3 scripts/record_trade.py open --ticker T --direction long|short --
            --stop 180 --thesis "..." --catalyst "..." --catalyst-date YYYY-MM-DD
 Close: python3 scripts/record_trade.py close --id 3 [--lessons "..."]
 
-Entry and exit prices always come from scripts/prices.py (latest close). Refuses
+Entry and exit prices come from scripts/prices.py execution_price(): the 1-minute bar close at the
+time the user asked to execute (--at), or the latest close if the market was closed. Refuses
 trades that break rules.md limits or when state/HALT exists.
 """
 import argparse
@@ -24,9 +25,8 @@ def cmd_open(a, rules, rows):
         raise SystemExit("REFUSED: rules.md is still DRAFT. Approve it first.")
     if a.direction == "short" and not rules["allow_short"]:
         raise SystemExit("REFUSED: shorts not allowed by rules.md")
-    df, src = prices.history(a.ticker)
-    entry = float(df["close"].iloc[-1])
-    day = str(df.index[-1].date())
+    entry, when, src = prices.execution_price(a.ticker, a.at)
+    day = when[:10]
     row = {"direction": a.direction, "size_pct": a.size_pct, "entry": entry, "stop": a.stop}
     cap = rules["starting_capital"]
     loss = book.loss_at_stop(row, rules)
@@ -48,23 +48,22 @@ def cmd_open(a, rules, rows):
                  "entry": f"{entry:.4f}", "stop": a.stop, "size_pct": a.size_pct,
                  "exit": "", "exit_date": "", "outcome": "OPEN", "lessons": ""})
     book.write_ledger(rows)
-    print(f"RECORDED id={new_id} {a.ticker} {a.direction} {a.size_pct}% entry {entry:.2f} ({day}, {src}) stop {a.stop} loss_at_stop ${loss:,.0f}")
+    print(f"RECORDED id={new_id} {a.ticker} {a.direction} {a.size_pct}% entry {entry:.4f} ({when}, {src}) stop {a.stop} loss_at_stop ${loss:,.0f}")
 
 
 def cmd_close(a, rules, rows):
     r = next((r for r in rows if r["id"] == str(a.id)), None)
     if r is None or not book.is_open(r):
         raise SystemExit(f"no open trade with id {a.id}")
-    df, src = prices.history(r["ticker"], start=r["date"])
-    px = float(df["close"].iloc[-1])
+    px, when, src = prices.execution_price(r["ticker"], a.at)
     r["exit"] = f"{px:.4f}"
-    r["exit_date"] = str(df.index[-1].date())
+    r["exit_date"] = when[:10]
     pnl = book.trade_pnl(r, rules)
     r["outcome"] = outcome(pnl)
     if a.lessons:
         r["lessons"] = a.lessons
     book.write_ledger(rows)
-    print(f"CLOSED id={a.id} {r['ticker']} @ {px:.2f} ({r['exit_date']}, {src}) pnl ${pnl:,.0f} {r['outcome']}")
+    print(f"CLOSED id={a.id} {r['ticker']} @ {px:.4f} ({when}, {src}) pnl ${pnl:,.0f} {r['outcome']}")
 
 
 def main():
@@ -78,10 +77,12 @@ def main():
     o.add_argument("--thesis", required=True)
     o.add_argument("--catalyst", required=True)
     o.add_argument("--catalyst-date", required=True)
+    o.add_argument("--at", default="now", help='"now" or "YYYY-MM-DD HH:MM" ET: when the user asked to execute')
     o.add_argument("--allow-draft", action="store_true", help="tests only")
     c = sub.add_parser("close")
     c.add_argument("--id", required=True, type=int)
     c.add_argument("--lessons", default="")
+    c.add_argument("--at", default="now", help='"now" or "YYYY-MM-DD HH:MM" ET: when the user asked to execute')
     a = ap.parse_args()
     rules, rows = book.load_rules(), book.read_ledger()
     (cmd_open if a.cmd == "open" else cmd_close)(a, rules, rows)

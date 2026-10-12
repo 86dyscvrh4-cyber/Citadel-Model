@@ -40,11 +40,12 @@ Paper trading only. Not financial advice.
 - /postmortem on the last trading day of each month and at the end of the run.
 
 ## 7. Fills and marks (paper conventions)
-- Entry fill: latest close from the data script on the approval date.
+- Entry fill: the price when the user asks to execute: close of the Yahoo 1-minute bar containing that time (scripts/prices.py execution_price). If the market is closed, the latest completed close.
+- Stops are checked from the session after entry; an intraday stop hit on the entry day after the fill is not modeled.
 - Stops are checked on daily bars. If high/low data exists, a long stops when low <= stop, a short when high >= stop. Fill at the stop, or at the open if the bar gapped through the stop.
 - If only close data exists, stops trigger on close and fill at that close.
 - No commissions or slippage modeled beyond the gap rule.
-- Planned (non-stop) exits fill at the latest close from the data script on the exit date.
+- User-requested and planned (non-stop) exits fill the same way as entries: the 1-minute bar close when the exit is requested, else the latest completed close.
 
 ## 8. Pre-registered success criteria
 Evaluated by scripts/scorecard.py at the end of the run. All three must hold:
@@ -61,6 +62,7 @@ Rules change only when the user says so. Each change: date, rule, old value, new
 |------|------|-----|-----|--------|
 | 2026-10-11 | all | DRAFT | APPROVED | user approved the draft |
 | 2026-10-11 | 2. Universe | S&P 500 + US-listed ETFs | S&P 500 + S&P MidCap 400 + US-listed ETFs | user asked to include midcaps to widen the opportunity set |
+| 2026-10-12 | 7. Fills | entry and planned exits at the latest close on the approval date | entry and requested exits at the 1-minute bar close when the user asks to execute | user instruction: execute at the price when I ask to execute |
 
 ## Machine-readable parameters (scripts read this block; keep in sync with the text above)
 ```json
