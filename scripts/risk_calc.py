@@ -22,7 +22,7 @@ import book  # noqa: E402
 import prices  # noqa: E402
 
 LOOKBACK = 252
-SHOCKS = {"market": -0.10, "rates_proxy": -0.05, "sector": -0.15}
+SHOCKS = {"market": 0.10, "rates_proxy": 0.05, "sector": 0.15}  # magnitudes; applied in the adverse direction
 
 
 def parse_trade(s):
@@ -127,10 +127,14 @@ def main():
             "not_halted": not halted,
         }
         sec_beta_used = b_sec if not math.isnan(b_sec) else 1.0
+        def adverse(beta_, shock):
+            # loss from whichever direction of the shock hurts this position (long or short)
+            return -abs(notional * beta_ * shock) if not math.isnan(beta_) else float("nan")
+
         scen = {
-            "market_-10%": sgn * notional * (b_mkt if not math.isnan(b_mkt) else 1.0) * SHOCKS["market"],
-            "rates_proxy_-5%": (sgn * notional * b_rates * SHOCKS["rates_proxy"]) if not math.isnan(b_rates) else float("nan"),
-            "sector_-15%": sgn * notional * sec_beta_used * SHOCKS["sector"],
+            "market_10%_adverse": adverse(b_mkt if not math.isnan(b_mkt) else 1.0, SHOCKS["market"]),
+            "rates_proxy_5%_adverse": adverse(b_rates, SHOCKS["rates_proxy"]),
+            "sector_15%_adverse": adverse(sec_beta_used, SHOCKS["sector"]),
             "liquidity_gap_2x_stop": -2 * loss,
         }
         if math.isnan(b_sec):
@@ -164,7 +168,15 @@ def main():
         "open_positions": len(open_rows), "halted": halted,
         "drawdown_pct_now": float(eq["drawdown_pct"].iloc[-1]) if eq is not None else 0.0,
     }
-    scen_total = {k: float(np.nansum([t["scenarios_usd"][k] for t in out_trades])) for k in out_trades[0]["scenarios_usd"]}
+    # portfolio totals: factor shocks net longs against shorts; gap losses add up
+    def net_adverse(beta_key, shock):
+        net = sum(book.sign(t) * t["size_pct"] / 100 * cap * (t[beta_key] if not math.isnan(t[beta_key]) else 1.0)
+                  for t in out_trades)
+        return -abs(net * shock)
+    scen_total = {"market_10%_adverse": net_adverse("beta_spy", SHOCKS["market"]),
+                  "rates_proxy_5%_adverse": net_adverse("beta_rates_proxy", SHOCKS["rates_proxy"]),
+                  "sector_15%_adverse_if_same_sector": net_adverse("beta_sector", SHOCKS["sector"]),
+                  "liquidity_gap_2x_stop": sum(t["scenarios_usd"]["liquidity_gap_2x_stop"] for t in out_trades)}
 
     corr = pd.DataFrame(ret_cols).dropna().iloc[-LOOKBACK:].corr() if len(ret_cols) > 1 else None
 
