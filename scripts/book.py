@@ -56,6 +56,29 @@ def write_ledger(rows):
             w.writerow({k: r.get(k, "") for k in LEDGER_FIELDS})
 
 
+def links_path():
+    return state_dir() / "links.csv"
+
+
+def read_links():
+    """{id: set(linked ids)} from state/links.csv (pairs that must exit together)."""
+    path, out = links_path(), {}
+    if path.exists():
+        for line in path.read_text().splitlines()[1:]:
+            a, b = [x.strip() for x in line.split(",")[:2]]
+            out.setdefault(a, set()).add(b)
+            out.setdefault(b, set()).add(a)
+    return out
+
+
+def add_link(a, b, reason=""):
+    path = links_path()
+    if not path.exists():
+        path.write_text("id_a,id_b,reason\n")
+    with path.open("a") as f:
+        f.write(f"{a},{b},{reason.replace(',', ';')}\n")
+
+
 def is_open(row):
     return not row.get("exit_date")
 

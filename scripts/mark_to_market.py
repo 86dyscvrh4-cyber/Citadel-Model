@@ -53,7 +53,7 @@ def main():
         return
 
     today = date.today()
-    closed_now, open_lines = [], []
+    closed_now, open_lines, closed_now_ids = [], [], []
     for r in rows:
         if not book.is_open(r):
             continue
@@ -69,6 +69,7 @@ def main():
             pnl = book.trade_pnl(r, rules)
             r["outcome"] = outcome(pnl)
             closed_now.append(f"{r['id']} {r['ticker']} {r['direction']} STOP @ {px:.2f} on {day.date()}  pnl ${pnl:,.0f}  ({src})")
+            closed_now_ids.append(r["id"])
         else:
             last = float(df["close"].iloc[-1])
             pnl = book.trade_pnl(r, rules, last)
@@ -76,6 +77,25 @@ def main():
             if r.get("catalyst_date") and pd.Timestamp(r["catalyst_date"]).date() < today:
                 flag = "  CATALYST PASSED: review thesis"
             open_lines.append(f"{r['id']} {r['ticker']} {r['direction']} last {last:.2f} ({df.index[-1].date()}) entry {float(r['entry']):.2f} stop {float(r['stop']):.2f}  pnl ${pnl:,.0f}{flag}")
+
+    # linked exits: when a leg closes on a stop, close its open partner(s) at that day's close
+    links = book.read_links()
+    by_id = {r["id"]: r for r in rows}
+    for r in list(rows):
+        if book.is_open(r) or r["id"] not in closed_now_ids:
+            continue
+        for pid in links.get(r["id"], ()):
+            p = by_id.get(pid)
+            if p is None or not book.is_open(p):
+                continue
+            dfp, srcp = prices.history(p["ticker"], start=p["date"])
+            day = pd.Timestamp(r["exit_date"])
+            px = float(dfp.loc[dfp.index <= day, "close"].iloc[-1])
+            p["exit"], p["exit_date"] = f"{px:.4f}", str(day.date())
+            pnl = book.trade_pnl(p, rules)
+            p["outcome"] = outcome(pnl)
+            closed_now.append(f"{p['id']} {p['ticker']} {p['direction']} LINKED EXIT (partner {r['id']} stopped) @ {px:.2f} close {day.date()}  pnl ${pnl:,.0f}  ({srcp})")
+            open_lines[:] = [ln for ln in open_lines if not ln.startswith(f"{p['id']} ")]
 
     eq = book.equity_series(rows, rules)
     if eq is None or eq.empty:

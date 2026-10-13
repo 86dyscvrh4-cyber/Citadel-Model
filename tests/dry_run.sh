@@ -16,7 +16,7 @@ echo; echo "== 4. guardrail: oversized trade must be refused"
 python3 scripts/record_trade.py open --ticker SYNA --direction long --size-pct 20 --stop $SA --thesis t --catalyst c --catalyst-date 2026-09-01 --allow-draft || true
 echo; echo "== 5. record both (test ledger only)"
 python3 scripts/record_trade.py open --ticker SYNA --direction long --size-pct 5 --stop $SA --thesis "SYNTHETIC sample" --catalyst "synthetic event" --catalyst-date 2026-09-15 --allow-draft
-python3 scripts/record_trade.py open --ticker SYNB --direction short --size-pct 5 --stop $SB --thesis "SYNTHETIC sample" --catalyst "synthetic event" --catalyst-date 2026-09-15 --allow-draft
+python3 scripts/record_trade.py open --ticker SYNB --direction short --size-pct 5 --stop $SB --thesis "SYNTHETIC sample" --catalyst "synthetic event" --catalyst-date 2026-09-15 --allow-draft --link-to 1 --link-reason "test pair"
 echo; echo "== 6. extend fixtures to 2026-10-09 and mark"
 python3 tests/make_fixtures.py "$OUT/prices" 2026-10-09 >/dev/null
 python3 scripts/mark_to_market.py

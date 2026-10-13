@@ -48,6 +48,9 @@ def cmd_open(a, rules, rows):
                  "entry": f"{entry:.4f}", "stop": a.stop, "size_pct": a.size_pct,
                  "exit": "", "exit_date": "", "outcome": "OPEN", "lessons": ""})
     book.write_ledger(rows)
+    if a.link_to:
+        book.add_link(str(a.link_to), str(new_id), a.link_reason)
+        print(f"LINKED id={new_id} with id={a.link_to}: exits together")
     print(f"RECORDED id={new_id} {a.ticker} {a.direction} {a.size_pct}% entry {entry:.4f} ({when}, {src}) stop {a.stop} loss_at_stop ${loss:,.0f}")
 
 
@@ -62,6 +65,13 @@ def cmd_close(a, rules, rows):
     r["outcome"] = outcome(pnl)
     if a.lessons:
         r["lessons"] = a.lessons
+    for pid in book.read_links().get(r["id"], ()):  # linked legs exit in the same session
+        p = next((x for x in rows if x["id"] == pid), None)
+        if p is not None and book.is_open(p):
+            ppx, pwhen, psrc = prices.execution_price(p["ticker"], a.at)
+            p["exit"], p["exit_date"] = f"{ppx:.4f}", pwhen[:10]
+            p["outcome"] = outcome(book.trade_pnl(p, rules))
+            print(f"LINKED CLOSE id={pid} {p['ticker']} @ {ppx:.4f} ({pwhen}, {psrc}) pnl ${book.trade_pnl(p, rules):,.0f} {p['outcome']}")
     book.write_ledger(rows)
     print(f"CLOSED id={a.id} {r['ticker']} @ {px:.4f} ({when}, {src}) pnl ${pnl:,.0f} {r['outcome']}")
 
@@ -78,6 +88,8 @@ def main():
     o.add_argument("--catalyst", required=True)
     o.add_argument("--catalyst-date", required=True)
     o.add_argument("--at", default="now", help='"now" or "YYYY-MM-DD HH:MM" ET: when the user asked to execute')
+    o.add_argument("--link-to", type=int, default=None, help="id of an open trade this one must exit with")
+    o.add_argument("--link-reason", default="")
     o.add_argument("--allow-draft", action="store_true", help="tests only")
     c = sub.add_parser("close")
     c.add_argument("--id", required=True, type=int)
