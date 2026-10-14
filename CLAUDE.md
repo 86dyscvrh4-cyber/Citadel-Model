@@ -26,6 +26,8 @@ Paper-trading research experiment. Tests whether a three-role AI process (Desk, 
 - rules.md: limits and success criteria (JSON block at the bottom is what scripts read).
 - ledger.csv: one row per paper trade.
 - scripts/screen.py: full-universe screen (S&P 500 + S&P MidCap 400 + data/etfs.csv). Output in screens/. Desk works from its shortlist.
+- scripts/daily_prep.py: morning prep for /scan (screen, new-or-changed filter, guidance gaps, consensus snapshot).
+- scripts/guidance_gap.py: filed EPS guidance (8-K items 2.02/7.01) vs Yahoo consensus; flags gaps. Machine-extracted, verify before use.
 - scripts/consensus.py: Yahoo analyst consensus (EPS, revenue, trends, revisions, targets) for variant views.
 - data/: universe lists and their sources (data/universe_sources.md).
 - ideas/YYYY-MM-DD_TICKER.md, proposals/YYYY-MM-DD_pm.md, reviews/YYYY-MM-DD_risk.md, postmortems/YYYY-MM_postmortem.md.
