@@ -45,6 +45,24 @@ def universe():
     return {int(c): s for s, c in zip(u.symbol, u.cik)}
 
 
+def live_feed_ciks(ciks, day):
+    """CIKs in `ciks` with an 8-K on `day` in SEC's current-filings feed (covers today, before the daily index)."""
+    hits = set()
+    for start in range(0, 1000, 100):
+        x = sec.get("https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&company=&dateb="
+                    f"&owner=include&start={start}&count=100&output=atom")
+        entries = re.findall(r"<entry>(.*?)</entry>", x, re.S)
+        if not entries:
+            break
+        for e in entries:
+            m = re.search(r"\((\d{6,10})\)", re.search(r"<title>(.*?)</title>", e).group(1))
+            if m and re.search(r"<updated>" + day, e) and int(m.group(1)) in ciks:
+                hits.add(int(m.group(1)))
+        if not any(re.search(r"<updated>" + day, e) for e in entries):
+            break
+    return hits
+
+
 def recent_8k_ciks(ciks, days):
     hits = set()
     for d in pd.bdate_range(end=pd.Timestamp(date.today()), periods=days + 1):
@@ -52,6 +70,7 @@ def recent_8k_ciks(ciks, days):
         try:
             txt = sec.get(f"https://www.sec.gov/Archives/edgar/daily-index/{d.year}/QTR{q}/form.{d:%Y%m%d}.idx")
         except Exception:
+            hits |= live_feed_ciks(ciks, str(d.date()))  # index not published yet (same day): use the live feed
             continue
         for line in txt.splitlines():
             if line.startswith("8-K "):
