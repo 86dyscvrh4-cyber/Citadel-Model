@@ -1,6 +1,6 @@
 # Guidance vs consensus gaps, 2026-10-22
 
-8-Ks with Item 2.02/7.01 from 2026-10-19; companies checked: 155; guidance ranges parsed: 33; flagged: 15.
+8-Ks with Item 2.02/7.01 from 2026-10-19; companies checked: 156; guidance ranges parsed: 46; flagged: 18.
 Machine-extracted with regex. Verify every number against the filing before using it. Period matching is approximate:
 the consensus period closest to the guide midpoint is shown (yahoo_period). Yahoo EPS basis may differ from company adjusted EPS.
 Consensus: Yahoo Finance (https://finance.yahoo.com/quote/TICKER/analysis), retrieved 2026-10-22.
@@ -9,11 +9,14 @@ Consensus: Yahoo Finance (https://finance.yahoo.com/quote/TICKER/analysis), retr
 
 | symbol | filed | period | basis | guide | yahoo period | consensus (n) | gap vs mid | outside | filing |
 |---|---|---|---|---|---|---|---|---|---|
+| UDR | 2026-10-21 | FY | GAAP? | 0.13-0.15 | +1y | 0.56 (1) | +300.0% | YES | https://www.sec.gov/Archives/edgar/data/74208/000007420826000081/udr-20261021x8k.htm |
+| GE | 2026-10-20 | Q | adjusted | 7.65-7.85 | 0q | 2.28 (6) | -70.6% | YES | https://www.sec.gov/Archives/edgar/data/40545/000004054526000063/ge-20261020.htm |
 | ADC | 2026-10-20 | ? | GAAP? | 4.57-4.59 | 0y | 1.92 (2) | -58.1% | YES | https://www.sec.gov/Archives/edgar/data/917251/000091725126000075/adc-20261020.htm |
 | ELV | 2026-10-21 | FY | adjusted | 22.00+ | 0y | 27.53 (22) | +25.1% |  | https://www.sec.gov/Archives/edgar/data/1156039/000115603926000068/a3q2026elvearningsrelease.htm |
 | CCI | 2026-10-21 | FY | GAAP? | 1.70-2.35 | 0y | 2.49 (3) | +23.0% | YES | https://www.sec.gov/Archives/edgar/data/1051470/000105147026000085/cci-20261021.htm |
 | CCI | 2026-10-21 | ? | GAAP? | 1.76-2.41 | 0y | 2.49 (3) | +19.5% | YES | https://www.sec.gov/Archives/edgar/data/1051470/000105147026000085/cci-20261021.htm |
 | TDY | 2026-10-21 | FY | adjusted | 21.71-21.87 | 0y | 24.77 (9) | +13.7% | YES | https://www.sec.gov/Archives/edgar/data/1094285/000109428526000055/q3-2026earningsrelease.htm |
+| EGP | 2026-10-21 | FY | GAAP? | 5.99-6.05 | +1y | 5.68 (6) | -5.7% | YES | https://www.sec.gov/Archives/edgar/data/49600/000004960026000047/egp-20261021.htm |
 | ELV | 2026-10-21 | ? | adjusted | 29.00+ | 0y | 27.53 (22) | -5.1% | YES | https://www.sec.gov/Archives/edgar/data/1156039/000115603926000068/a3q2026elvearningsrelease.htm |
 | SON | 2026-10-21 | FY | adjusted | 5.30-5.50 | 0y | 5.63 (5) | +4.2% | YES | https://www.sec.gov/Archives/edgar/data/91767/000009176726000047/ex99q32026earningsrelease.htm |
 | MCO | 2026-10-21 | FY | adjusted | 16.00-16.50 | 0y | 16.87 (24) | +3.8% | YES | https://www.sec.gov/Archives/edgar/data/1059556/000162828026066594/a3q26earningsrelease.htm |
@@ -27,11 +30,14 @@ Consensus: Yahoo Finance (https://finance.yahoo.com/quote/TICKER/analysis), retr
 
 ### Guidance sentences for flagged rows
 
+- UDR: "The Company expects Net Income per diluted share for the third quarter 2026 will be $0.67, which compares to the previously provided guidance range of $0.13 to $0.15 per diluted share. Furthermore, the Company expects FFOA per diluted share for the third quart"
+- GE: "21.4% | $10.55 - $10.75B $10.9 - $11.0B | Adjusted EPS* $6.37 $7.65 - $7.85 $8.00 - $8.10"
 - ADC: "Guidance | AFFO per share (1)(2) | $4.57 to $4.59"
 - ELV: "RAISES FULL-YEAR GUIDANCE | 3Q 2026 operating revenue of $50.4 billion, up 0.7% from 3Q 2025 | 3Q 2026 diluted EPS 1 of $6.27 and adjusted diluted EPS 2 of $6.99"
 - CCI: "Full Year 2026 Outlook | per share (a) | $730 to $1,010 $1.70 to $2.35"
 - CCI: "Net income (loss) (e) | 755 to 1,035 25 | Net income (loss) per share—diluted (e) | 1.76 to 2.41 0.06"
 - TDY: "Raising full year 2026 GAAP diluted earnings per share outlook to $21.71 to $21.87 compared with the prior outlook of $20.73 to $20.99, and raising full year 2026 non-GAAP earnings per share outlook to $25.40 to $25.50, compared with the prior outlook of $24.4"
+- EGP: "OUTLOOK FOR 2026 | We now estimate EPS for 2026 to be in the range of $5.99 to $6.05 and FFO per share attributable to common stockholders for 2026 to be in the range of $9.62 to $9.68. The table below reconciles projected net income attributable to common sto"
 - ELV: "adjusted diluted EPS 2 guidance raised to at least $29.00 on continued operating momentum"
 - SON: "Revised Full-Year 2026 | Net Sales: $7.20 billion to $7.40 billion | Adjusted EPS (2) : Targeting diluted earnings per share between $5.30 to $5.50"
 - MCO: "MCO revenue of $2.0 billion increased 1% from the prior-year period and 3% on an organic constant currency 1 basis. | MCO’s operating margin was 44.8% and MCO’s Adjusted Operating Margin 1 was 52.6%. | Diluted EPS and Adjusted Diluted EPS 1 increased 18% and 6"
@@ -45,6 +51,16 @@ Consensus: Yahoo Finance (https://finance.yahoo.com/quote/TICKER/analysis), retr
 
 ## Not flagged
 
+- ABT FY guide 5.50-5.55 vs 0y consensus 5.52 (-0.1%)
+- ABT FY guide 1.62-1.67 vs 0y consensus 5.52 (+235.5%)
+- CACI ? guide 33.18-34.08 vs 0y consensus 33.41 (-0.6%)
+- GPC ? guide 7.50-7.75 vs 0y consensus 7.63 (+0.0%)
+- GPC ? guide 5.90-6.40 vs 0y consensus 7.63 (+24.0%)
+- GPC ? guide 7.50-8.00 vs 0y consensus 7.63 (-1.6%)
+- EGP FY guide 9.62-9.68 vs +1y consensus 5.68 (-41.2%)
+- EGP FY guide 9.58-9.64 vs +1y consensus 5.68 (-40.9%)
+- MMM FY guide 9.10-9.15 vs 0y consensus 9.12 (-0.0%)
+- PG FY guide 6.89-7.11 vs 0y consensus 6.98 (-0.3%)
 - R FY guide 9.75-9.95 vs 0y consensus 14.67 (+48.9%)
 - R FY guide 4.25-4.45 vs 0y consensus 14.67 (+237.2%)
 - LUV FY guide 0.55-0.80 vs 0y consensus 2.81 (+316.8%)
@@ -63,38 +79,25 @@ Consensus: Yahoo Finance (https://finance.yahoo.com/quote/TICKER/analysis), retr
 - GM ? guide 9.72-10.72 vs 0y consensus 13.36 (+30.7%)
 - GM ? guide 12.75-13.75 vs 0y consensus 13.36 (+0.8%)
 - KNX Q guide 0.78-0.84 vs 0q consensus 0.82 (+1.3%)
-- ABT 2026-10-21: guidance found, no Yahoo consensus
-- ABT 2026-10-21: guidance found, no Yahoo consensus
 - AAL 2026-10-22: no EPS guidance found
 - BALL 2026-10-19: no EPS guidance found
 - WRB 2026-10-19: no EPS guidance found
-- CACI 2026-10-21: guidance found, no Yahoo consensus
 - CBSH 2026-10-20: no EPS guidance found
 - DOV 2026-10-22: no EPS guidance found
 - EFX 2026-10-20: no EPS guidance found
 - FITB 2026-10-19: no EPS guidance found
 - FNB 2026-10-20: no EPS guidance found
-- GE 2026-10-20: guidance found, no Yahoo consensus
 - ALLY 2026-10-20: no EPS guidance found
-- GPC 2026-10-20: guidance found, no Yahoo consensus
-- GPC 2026-10-20: guidance found, no Yahoo consensus
-- GPC 2026-10-20: guidance found, no Yahoo consensus
 - HAL 2026-10-20: no EPS guidance found
 - HAS 2026-10-20: no EPS guidance found
 - HBAN 2026-10-22: no EPS guidance found
-- EGP 2026-10-21: guidance found, no Yahoo consensus
-- EGP 2026-10-21: guidance found, no Yahoo consensus
-- EGP 2026-10-21: guidance found, no Yahoo consensus
 - IBM 2026-10-21: no EPS guidance found
 - KR 2026-10-20: no EPS guidance found
 - MAT 2026-10-22: no EPS guidance found
 - MAT 2026-10-19: no EPS guidance found
-- MMM 2026-10-20: guidance found, no Yahoo consensus
 - MMM 2026-10-19: no EPS guidance found
 - NTRS 2026-10-21: no EPS guidance found
 - NTRS 2026-10-20: no EPS guidance found
-- UDR 2026-10-21: guidance found, no Yahoo consensus
-- PG 2026-10-22: guidance found, no Yahoo consensus
 - RLI 2026-10-21: no EPS guidance found
 - RLI 2026-10-19: no EPS guidance found
 - ROL 2026-10-21: no EPS guidance found
@@ -118,6 +121,7 @@ Consensus: Yahoo Finance (https://finance.yahoo.com/quote/TICKER/analysis), retr
 - LRCX 2026-10-21: no EPS guidance found
 - VLY 2026-10-22: no EPS guidance found
 - SF 2026-10-21: no EPS guidance found
+- UBSI 2026-10-22: no EPS guidance found
 - T 2026-10-21: no EPS guidance found
 - HWC 2026-10-20: no EPS guidance found
 - VICR 2026-10-20: no EPS guidance found

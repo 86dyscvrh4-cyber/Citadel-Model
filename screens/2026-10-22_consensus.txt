@@ -1,0 +1,2283 @@
+# Yahoo Finance consensus snapshot, retrieved 2026-10-22, 96 names
+# Cite per ticker: Yahoo Finance consensus | https://finance.yahoo.com/quote/TICKER/analysis | retrieved 2026-10-22
+
+SCHW  Yahoo Finance consensus | https://finance.yahoo.com/quote/SCHW/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-21
+  EPS estimates:
+    current qtr  avg 1.72  low 1.67  high 1.77  n=20  year-ago 1.39
+    next qtr     avg 1.78  low 1.67  high 1.84  n=16  year-ago 1.43
+    current FY   avg 6.44  low 6.31  high 6.52  n=23  year-ago 4.87
+    next FY      avg 7.81  low 7.12  high 8.23  n=24  year-ago 6.44
+  Revenue estimates:
+    current qtr  avg $7,398.7M  low $7,241.9M  high $7,488.0M  n=13  year-ago $6,336.0M
+    next qtr     avg $7,576.9M  low $7,399.0M  high $7,776.0M  n=10  year-ago $6,482.0M
+    current FY   avg $28,099.8M  low $27,790.9M  high $28,213.0M  n=17  year-ago $23,921.0M
+    next FY      avg $31,664.8M  low $28,096.0M  high $32,795.6M  n=17  year-ago $28,099.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.72 / 1.78 / 1.78
+    next qtr     1.78 / 1.81 / 1.80
+    current FY   6.44 / 6.49 / 6.46
+    next FY      7.81 / 7.82 / 7.66
+  EPS revisions last 30d (up / down):
+    current qtr  5 / 7
+    next qtr     5 / 4
+    current FY   4 / 7
+    next FY      11 / 3
+  price targets: mean 117.59  median 120.00  low 82.00  high 147.00
+
+PAG  Yahoo Finance consensus | https://finance.yahoo.com/quote/PAG/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-28
+  EPS estimates:
+    current qtr  avg 3.34  low 2.98  high 3.53  n=9  year-ago 3.23
+    next qtr     avg 3.23  low 2.76  high 3.39  n=9  year-ago 2.85
+    current FY   avg 13.24  low 12.49  high 13.58  n=10  year-ago 13.25
+    next FY      avg 14.05  low 13.44  high 14.45  n=5  year-ago 13.58
+  Revenue estimates:
+    current qtr  avg $8,142.9M  low $7,884.6M  high $8,369.2M  n=7  year-ago $7,695.3M
+    next qtr     avg $8,163.7M  low $7,774.1M  high $8,428.3M  n=7  year-ago $7,653.4M
+    current FY   avg $32,627.7M  low $32,195.0M  high $33,170.0M  n=9  year-ago $30,615.5M
+    next FY      avg $33,568.1M  low $32,535.0M  high $34,930.5M  n=9  year-ago $32,627.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.34 / 3.55 / 3.48
+    next qtr     3.23 / 3.40 / 3.40
+    current FY   13.24 / 13.59 / 13.36
+    next FY      14.05 / 14.18 / 14.08
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 4
+    next qtr     1 / 3
+    current FY   0 / 4
+    next FY      0 / 1
+  price targets: mean 210.57  median 210.00  low 210.00  high 212.00
+
+MEDP  Yahoo Finance consensus | https://finance.yahoo.com/quote/MEDP/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 4.46  low 4.31  high 4.69  n=8  year-ago 3.86
+    next qtr     avg 4.69  low 4.51  high 4.83  n=8  year-ago 4.67
+    current FY   avg 17.72  low 17.50  high 18.37  n=10  year-ago 15.28
+    next FY      avg 19.32  low 17.60  high 20.16  n=10  year-ago 17.72
+  Revenue estimates:
+    current qtr  avg $714.6M  low $706.1M  high $736.3M  n=11  year-ago $659.9M
+    next qtr     avg $720.9M  low $708.5M  high $738.0M  n=11  year-ago $708.5M
+    current FY   avg $2,852.1M  low $2,828.5M  high $2,888.3M  n=13  year-ago $2,530.2M
+    next FY      avg $3,032.5M  low $2,916.9M  high $3,200.4M  n=13  year-ago $2,852.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  4.46 / 4.44 / 4.36
+    next qtr     4.69 / 4.70 / 4.58
+    current FY   17.72 / 17.70 / 17.17
+    next FY      19.32 / 19.31 / 18.75
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     1 / 1
+    current FY   2 / 0
+    next FY      1 / 1
+  price targets: mean 595.92  median 615.00  low 370.00  high 700.00
+
+ELS  Yahoo Finance consensus | https://finance.yahoo.com/quote/ELS/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-20
+  EPS estimates:
+    current qtr  avg 0.53  low 0.50  high 0.55  n=6  year-ago 0.50
+    next qtr     avg 0.59  low 0.59  high 0.60  n=3  year-ago 0.54
+    current FY   avg 2.01  low 2.01  high 2.01  n=1  year-ago 1.95
+    next FY      avg 2.17  low 2.09  high 2.27  n=6  year-ago 2.01
+  Revenue estimates:
+    current qtr  avg $389.3M  low $371.8M  high $408.5M  n=6  year-ago $373.9M
+    next qtr     avg $407.3M  low $397.0M  high $417.6M  n=2  year-ago $397.6M
+    current FY   avg $1,596.7M  low $1,590.8M  high $1,601.5M  n=3  year-ago $1,531.4M
+    next FY      avg $1,640.5M  low $1,566.9M  high $1,679.5M  n=8  year-ago $1,596.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.53 / 0.53 / 0.51
+    next qtr     0.59 / 0.59 / 0.59
+    current FY   2.01 / 2.05 / 2.01
+    next FY      2.17 / 2.18 / 2.16
+  EPS revisions last 30d (up / down):
+    current qtr  3 / 2
+    next qtr     1 / 1
+    current FY   0 / 1
+    next FY      2 / 2
+  price targets: mean 68.05  median 67.00  low 59.00  high 78.00
+
+RLI  Yahoo Finance consensus | https://finance.yahoo.com/quote/RLI/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-19
+  EPS estimates:
+    current qtr  avg 0.69  low 0.62  high 0.77  n=8  year-ago 0.94
+    next qtr     avg 0.78  low 0.68  high 0.84  n=7  year-ago 0.83
+    current FY   avg 3.15  low 2.90  high 3.30  n=7  year-ago 3.47
+    next FY      avg 2.72  low 2.55  high 2.90  n=7  year-ago 3.15
+  Revenue estimates:
+    current qtr  avg $473.4M  low $472.0M  high $474.8M  n=3  year-ago $465.7M
+    next qtr     avg $477.7M  low $476.6M  high $479.0M  n=3  year-ago $423.9M
+    current FY   avg $1,946.8M  low $1,940.9M  high $1,951.2M  n=3  year-ago $1,882.4M
+    next FY      avg $1,940.5M  low $1,934.1M  high $1,944.3M  n=3  year-ago $1,946.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.69 / 0.68 / 0.68
+    next qtr     0.78 / 0.79 / 0.77
+    current FY   3.15 / 2.84 / 2.73
+    next FY      2.72 / 2.70 / 2.75
+  EPS revisions last 30d (up / down):
+    current qtr  3 / 5
+    next qtr     1 / 1
+    current FY   7 / 0
+    next FY      1 / 6
+  price targets: mean 57.50  median 54.50  low 47.00  high 74.00
+
+SF  Yahoo Finance consensus | https://finance.yahoo.com/quote/SF/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.83  low 1.83  high 1.83  n=1  year-ago 1.75
+    next qtr     avg 1.62  low 1.49  high 1.73  n=5  year-ago 1.45
+    current FY   avg 5.99  low 5.82  high 6.16  n=2  year-ago 4.51
+    next FY      avg 7.17  low 6.04  high 7.85  n=8  year-ago 5.99
+  Revenue estimates:
+    current qtr  avg $1,597.3M  low $1,552.0M  high $1,629.2M  n=4  year-ago $1,560.6M
+    next qtr     avg $1,559.6M  low $1,531.6M  high $1,587.6M  n=2  year-ago $1,441.5M
+    current FY   avg $5,945.4M  low $5,847.0M  high $6,059.0M  n=6  year-ago $5,529.7M
+    next FY      avg $6,471.9M  low $6,172.0M  high $6,733.0M  n=6  year-ago $5,945.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.83 / 2.07 / 2.05
+    next qtr     1.62 / 1.67 / 1.67
+    current FY   5.99 / 6.52 / 6.49
+    next FY      7.17 / 7.33 / 7.28
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 4
+    next qtr     0 / 3
+    current FY   0 / 5
+    next FY      0 / 4
+  price targets: mean 83.62  median 83.00  low 74.00  high 103.00
+
+TRU  Yahoo Finance consensus | https://finance.yahoo.com/quote/TRU/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-27
+  EPS estimates:
+    current qtr  avg 1.21  low 1.18  high 1.27  n=19  year-ago 1.10
+    next qtr     avg 1.20  low 1.16  high 1.25  n=18  year-ago 1.07
+    current FY   avg 4.80  low 4.29  high 4.89  n=21  year-ago 4.30
+    next FY      avg 5.44  low 5.07  high 5.96  n=21  year-ago 4.80
+  Revenue estimates:
+    current qtr  avg $1,306.9M  low $1,291.6M  high $1,319.2M  n=17  year-ago $1,169.5M
+    next qtr     avg $1,292.4M  low $1,274.2M  high $1,317.9M  n=17  year-ago $1,171.4M
+    current FY   avg $5,159.0M  low $5,124.8M  high $5,200.0M  n=21  year-ago $4,576.3M
+    next FY      avg $5,508.9M  low $5,198.0M  high $5,719.3M  n=21  year-ago $5,159.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.21 / 1.22 / 1.23
+    next qtr     1.20 / 1.22 / 1.20
+    current FY   4.80 / 4.82 / 4.78
+    next FY      5.44 / 5.57 / 5.59
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 2
+    next qtr     0 / 2
+    current FY   1 / 3
+    next FY      1 / 4
+  price targets: mean 89.19  median 89.00  low 68.00  high 105.00
+
+PK  Yahoo Finance consensus | https://finance.yahoo.com/quote/PK/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-04
+  EPS estimates:
+    current qtr  avg 0.02  low -0.01  high 0.05  n=3  year-ago -0.15
+    next qtr     avg 0.11  low 0.08  high 0.12  n=3  year-ago 0.10
+    current FY   avg 0.54  low 0.41  high 0.67  n=2  year-ago -0.12
+    next FY      avg 0.58  low 0.47  high 0.64  n=4  year-ago 0.54
+  Revenue estimates:
+    current qtr  avg $603.0M  low $589.4M  high $622.5M  n=12  year-ago $610.0M
+    next qtr     avg $627.4M  low $617.3M  high $641.6M  n=12  year-ago $629.0M
+    current FY   avg $2,527.4M  low $2,496.7M  high $2,566.1M  n=14  year-ago $2,541.0M
+    next FY      avg $2,582.2M  low $2,452.0M  high $2,629.0M  n=15  year-ago $2,527.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.02 / 0.01 / 0.04
+    next qtr     0.11 / 0.11 / 0.12
+    current FY   0.54 / 0.54 / 0.52
+    next FY      0.58 / 0.55 / 0.53
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 0
+    next qtr     1 / 1
+    current FY   1 / 0
+    next FY      2 / 1
+  price targets: mean 16.35  median 16.00  low 13.00  high 20.50
+
+IBM  Yahoo Finance consensus | https://finance.yahoo.com/quote/IBM/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.87  low 2.75  high 3.12  n=21  year-ago 2.65
+    next qtr     avg 4.61  low 4.41  high 4.77  n=20  year-ago 4.52
+    current FY   avg 12.31  low 12.08  high 12.63  n=24  year-ago 11.59
+    next FY      avg 13.15  low 12.30  high 13.86  n=24  year-ago 12.31
+  Revenue estimates:
+    current qtr  avg $16,843.0M  low $16,669.8M  high $17,050.0M  n=19  year-ago $16,331.0M
+    next qtr     avg $20,467.7M  low $20,120.9M  high $20,619.0M  n=17  year-ago $19,686.0M
+    current FY   avg $70,384.7M  low $69,869.3M  high $70,930.0M  n=23  year-ago $67,535.0M
+    next FY      avg $73,101.8M  low $71,325.3M  high $74,486.0M  n=23  year-ago $70,384.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.87 / 2.89 / 2.87
+    next qtr     4.61 / 4.60 / 4.38
+    current FY   12.31 / 12.32 / 12.06
+    next FY      13.15 / 13.16 / 12.99
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 3
+    next qtr     3 / 0
+    current FY   1 / 1
+    next FY      1 / 0
+  price targets: mean 243.09  median 240.00  low 174.00  high 297.00
+
+LAD  Yahoo Finance consensus | https://finance.yahoo.com/quote/LAD/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 8.31  low 7.90  high 8.66  n=7  year-ago 6.74
+    next qtr     avg 9.18  low 8.47  high 10.00  n=8  year-ago 7.34
+    current FY   avg 35.71  low 35.54  high 35.92  n=5  year-ago 33.46
+    next FY      avg 41.39  low 37.50  high 46.83  n=14  year-ago 35.71
+  Revenue estimates:
+    current qtr  avg $9,257.2M  low $9,189.0M  high $9,383.0M  n=5  year-ago $9,197.8M
+    next qtr     avg $9,520.7M  low $9,321.3M  high $9,650.8M  n=7  year-ago $9,271.4M
+    current FY   avg $38,203.5M  low $37,982.0M  high $38,392.0M  n=7  year-ago $37,634.9M
+    next FY      avg $39,642.0M  low $38,040.0M  high $42,448.0M  n=13  year-ago $38,203.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  8.31 / 8.97 / 8.85
+    next qtr     9.18 / 9.33 / 8.67
+    current FY   35.71 / 36.37 / 34.53
+    next FY      41.39 / 42.65 / 40.75
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 5
+    next qtr     0 / 2
+    current FY   0 / 7
+    next FY      0 / 6
+  price targets: mean 409.07  median 409.00  low 310.00  high 500.00
+
+WM  Yahoo Finance consensus | https://finance.yahoo.com/quote/WM/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-27
+  EPS estimates:
+    current qtr  avg 2.18  low 2.08  high 2.35  n=24  year-ago 1.98
+    next qtr     avg 2.10  low 1.96  high 2.27  n=24  year-ago 1.93
+    current FY   avg 8.14  low 7.91  high 8.60  n=28  year-ago 7.50
+    next FY      avg 9.09  low 8.60  high 9.99  n=28  year-ago 8.14
+  Revenue estimates:
+    current qtr  avg $6,815.4M  low $6,740.7M  high $6,875.0M  n=21  year-ago $6,443.0M
+    next qtr     avg $6,700.0M  low $6,614.0M  high $6,795.0M  n=21  year-ago $6,313.0M
+    current FY   avg $26,429.7M  low $26,341.9M  high $26,597.6M  n=26  year-ago $25,204.0M
+    next FY      avg $27,855.7M  low $27,423.0M  high $28,284.0M  n=26  year-ago $26,429.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.18 / 2.19 / 2.20
+    next qtr     2.10 / 2.10 / 2.17
+    current FY   8.14 / 8.13 / 8.17
+    next FY      9.09 / 9.12 / 9.21
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 6
+    next qtr     2 / 6
+    current FY   2 / 7
+    next FY      3 / 6
+  price targets: mean 253.52  median 255.00  low 220.00  high 277.00
+
+PM  Yahoo Finance consensus | https://finance.yahoo.com/quote/PM/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.94  low 1.89  high 1.99  n=9  year-ago 1.70
+    next qtr     avg 2.08  low 2.01  high 2.17  n=7  year-ago 1.96
+    current FY   avg 8.39  low 8.29  high 8.44  n=11  year-ago 7.54
+    next FY      avg 9.18  low 8.89  high 9.50  n=14  year-ago 8.39
+  Revenue estimates:
+    current qtr  avg $10,973.9M  low $10,737.5M  high $11,198.0M  n=9  year-ago $10,362.0M
+    next qtr     avg $10,660.4M  low $10,464.6M  high $10,936.0M  n=6  year-ago $10,146.0M
+    current FY   avg $43,168.0M  low $43,168.0M  high $43,168.0M  n=1  year-ago $40,648.0M
+    next FY      avg $45,910.1M  low $44,561.0M  high $46,739.0M  n=12  year-ago $43,168.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.94 / 1.96 / 1.95
+    next qtr     2.08 / 2.08 / 2.10
+    current FY   8.39 / 8.40 / 8.36
+    next FY      9.18 / 9.17 / 9.13
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 2
+    next qtr     2 / 2
+    current FY   4 / 1
+    next FY      3 / 2
+  price targets: mean 208.71  median 213.00  low 175.00  high 230.00
+
+ABT  Yahoo Finance consensus | https://finance.yahoo.com/quote/ABT/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.64  low 1.59  high 1.67  n=22  year-ago 1.50
+    next qtr     avg 1.27  low 1.18  high 1.42  n=15  year-ago 1.15
+    current FY   avg 5.52  low 5.48  high 5.55  n=24  year-ago 5.15
+    next FY      avg 6.05  low 5.88  high 6.20  n=27  year-ago 5.52
+  Revenue estimates:
+    current qtr  avg $13,482.1M  low $13,147.0M  high $13,718.2M  n=23  year-ago $11,459.0M
+    next qtr     avg $12,766.6M  low $12,492.4M  high $12,992.0M  n=15  year-ago $11,164.0M
+    current FY   avg $50,185.7M  low $49,112.0M  high $50,471.2M  n=24  year-ago $44,328.0M
+    next FY      avg $54,348.0M  low $51,416.9M  high $55,397.0M  n=27  year-ago $50,185.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.64 / 1.64 / 1.64
+    next qtr     1.27 / 1.29 / 1.29
+    current FY   5.52 / 5.52 / 5.51
+    next FY      6.05 / 6.07 / 6.06
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 1
+    next qtr     0 / 1
+    current FY   1 / 2
+    next FY      1 / 2
+  price targets: mean 120.41  median 120.00  low 103.00  high 135.00
+
+TDY  Yahoo Finance consensus | https://finance.yahoo.com/quote/TDY/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-20
+  EPS estimates:
+    current qtr  avg 6.48  low 6.41  high 6.61  n=9  year-ago 6.30
+    next qtr     avg 6.12  low 5.93  high 6.25  n=7  year-ago 5.80
+    current FY   avg 24.77  low 24.65  high 24.99  n=9  year-ago 21.99
+    next FY      avg 26.80  low 25.73  high 27.54  n=11  year-ago 24.77
+  Revenue estimates:
+    current qtr  avg $1,682.3M  low $1,676.9M  high $1,691.0M  n=7  year-ago $1,612.3M
+    next qtr     avg $1,647.3M  low $1,630.5M  high $1,676.2M  n=5  year-ago $1,560.1M
+    current FY   avg $6,557.7M  low $6,547.2M  high $6,565.1M  n=7  year-ago $6,115.4M
+    next FY      avg $6,929.3M  low $6,845.5M  high $7,059.8M  n=10  year-ago $6,557.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  6.48 / 6.50 / 6.53
+    next qtr     6.12 / 6.11 / 6.15
+    current FY   24.77 / 24.73 / 24.41
+    next FY      26.80 / 26.77 / 26.03
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 2
+    next qtr     1 / 1
+    current FY   3 / 1
+    next FY      4 / 0
+  price targets: mean 760.17  median 765.00  low 640.00  high 877.00
+
+ROKU  Yahoo Finance consensus | https://finance.yahoo.com/quote/ROKU/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-02
+  EPS estimates:
+    current qtr  avg 0.53  low 0.47  high 0.60  n=7  year-ago 0.16
+    next qtr     avg 0.78  low 0.72  high 0.85  n=7  year-ago 0.53
+    current FY   avg 2.98  low 2.89  high 3.08  n=6  year-ago 0.60
+    next FY      avg 4.01  low 3.47  high 4.66  n=9  year-ago 2.98
+  Revenue estimates:
+    current qtr  avg $1,412.3M  low $1,349.7M  high $1,470.4M  n=26  year-ago $1,210.6M
+    next qtr     avg $1,617.7M  low $1,557.5M  high $1,686.9M  n=24  year-ago $1,394.9M
+    current FY   avg $5,633.6M  low $5,548.0M  high $5,760.7M  n=21  year-ago $4,737.3M
+    next FY      avg $6,322.8M  low $6,091.1M  high $6,653.0M  n=26  year-ago $5,633.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.53 / 0.55 / 0.51
+    next qtr     0.78 / 0.77 / 0.74
+    current FY   2.98 / 2.99 / 2.44
+    next FY      4.01 / 3.92 / 3.69
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 0
+    next qtr     0 / 0
+    current FY   0 / 0
+    next FY      1 / 0
+  price targets: mean 162.33  median 160.00  low 150.00  high 205.00
+
+BAC  Yahoo Finance consensus | https://finance.yahoo.com/quote/BAC/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-15
+  EPS estimates:
+    current qtr  avg 1.11  low 1.05  high 1.16  n=14  year-ago 0.98
+    next qtr     avg 1.20  low 1.08  high 1.30  n=9  year-ago 1.11
+    current FY   avg 4.40  low 4.27  high 4.72  n=19  year-ago 3.81
+    next FY      avg 5.10  low 4.58  high 5.30  n=17  year-ago 4.40
+  Revenue estimates:
+    current qtr  avg $30,464.0M  low $29,884.0M  high $31,268.0M  n=6  year-ago $28,367.0M
+    next qtr     avg $31,879.0M  low $31,879.0M  high $31,879.0M  n=1  year-ago $30,272.0M
+    current FY   avg $122,767.1M  low $121,672.0M  high $124,694.4M  n=10  year-ago $113,097.0M
+    next FY      avg $130,229.6M  low $127,718.0M  high $133,958.2M  n=9  year-ago $122,767.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.11 / 1.16 / 1.15
+    next qtr     1.20 / 1.24 / 1.24
+    current FY   4.40 / 4.66 / 4.67
+    next FY      5.10 / 5.28 / 5.25
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 8
+    next qtr     1 / 2
+    current FY   0 / 15
+    next FY      0 / 15
+  price targets: mean 63.14  median 63.00  low 56.00  high 71.00
+
+ONB  Yahoo Finance consensus | https://finance.yahoo.com/quote/ONB/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-20
+  EPS estimates:
+    current qtr  avg 0.67  low 0.64  high 0.69  n=14  year-ago 0.62
+    next qtr     avg 0.68  low 0.63  high 0.70  n=12  year-ago 0.61
+    current FY   avg 2.60  low 2.55  high 2.65  n=15  year-ago 2.21
+    next FY      avg 2.87  low 2.71  high 3.00  n=15  year-ago 2.60
+  Revenue estimates:
+    current qtr  avg $728.5M  low $724.0M  high $733.1M  n=2  year-ago $698.6M
+    next qtr     avg $739.1M  low $726.7M  high $749.7M  n=9  year-ago $702.8M
+    current FY   avg $2,875.1M  low $2,864.0M  high $2,882.2M  n=3  year-ago $2,552.8M
+    next FY      avg $3,056.5M  low $3,006.5M  high $3,111.7M  n=12  year-ago $2,875.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.67 / 0.68 / 0.69
+    next qtr     0.68 / 0.68 / 0.67
+    current FY   2.60 / 2.61 / 2.61
+    next FY      2.87 / 2.88 / 2.88
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 3
+    next qtr     1 / 2
+    current FY   3 / 2
+    next FY      3 / 3
+  price targets: mean 29.30  median 29.00  low 27.00  high 32.00
+
+T  Yahoo Finance consensus | https://finance.yahoo.com/quote/T/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.53  low 0.50  high 0.58  n=14  year-ago 0.52
+    next qtr     avg 0.60  low 0.55  high 0.64  n=9  year-ago 0.57
+    current FY   avg 2.36  low 2.32  high 2.41  n=18  year-ago 2.12
+    next FY      avg 2.57  low 2.43  high 2.71  n=21  year-ago 2.36
+  Revenue estimates:
+    current qtr  avg $34,692.1M  low $34,419.5M  high $34,985.2M  n=10  year-ago $33,466.0M
+    next qtr     avg $32,052.3M  low $31,172.0M  high $32,977.4M  n=6  year-ago $31,506.0M
+    current FY   avg $129,561.0M  low $129,080.0M  high $130,371.2M  n=16  year-ago $125,648.0M
+    next FY      avg $131,437.8M  low $127,583.0M  high $133,545.0M  n=19  year-ago $129,561.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.53 / 0.52 / 0.53
+    next qtr     0.60 / 0.60 / 0.60
+    current FY   2.36 / 2.34 / 2.33
+    next FY      2.57 / 2.57 / 2.57
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 2
+    next qtr     4 / 0
+    current FY   3 / 4
+    next FY      6 / 2
+  price targets: mean 28.59  median 29.00  low 20.00  high 34.00
+
+BNY  Yahoo Finance consensus | https://finance.yahoo.com/quote/BNY/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-15
+  EPS estimates:
+    current qtr  avg 2.35  low 2.27  high 2.45  n=13  year-ago 2.08
+    next qtr     avg 2.44  low 2.29  high 2.59  n=10  year-ago 2.25
+    current FY   avg 9.43  low 9.35  high 9.52  n=12  year-ago 7.50
+    next FY      avg 10.42  low 9.91  high 10.70  n=15  year-ago 9.43
+  Revenue estimates:
+    current qtr  avg $5,736.0M  low $5,602.0M  high $5,838.9M  n=10  year-ago $5,179.0M
+    next qtr     avg $5,730.1M  low $5,603.0M  high $5,878.3M  n=8  year-ago $5,409.0M
+    current FY   avg $22,475.5M  low $22,146.0M  high $22,621.9M  n=13  year-ago $20,080.0M
+    next FY      avg $23,609.0M  low $22,742.0M  high $24,089.5M  n=13  year-ago $22,475.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.35 / 2.29 / 2.29
+    next qtr     2.44 / 2.42 / 2.41
+    current FY   9.43 / 9.25 / 9.24
+    next FY      10.42 / 10.25 / 10.23
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 3
+    next qtr     3 / 1
+    current FY   6 / 1
+    next FY      3 / 3
+  price targets: mean 162.62  median 161.50  low 135.00  high 182.00
+
+DHR  Yahoo Finance consensus | https://finance.yahoo.com/quote/DHR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.57  low 2.47  high 2.63  n=18  year-ago 2.23
+    next qtr     avg 2.24  low 2.10  high 2.39  n=11  year-ago 2.06
+    current FY   avg 8.53  low 8.47  high 8.61  n=22  year-ago 7.80
+    next FY      avg 9.30  low 9.12  high 9.50  n=25  year-ago 8.53
+  Revenue estimates:
+    current qtr  avg $7,503.3M  low $7,492.0M  high $7,538.2M  n=7  year-ago $6,838.0M
+    next qtr     avg $6,670.0M  low $6,524.8M  high $6,868.0M  n=10  year-ago $5,951.0M
+    current FY   avg $26,258.3M  low $26,216.0M  high $26,294.6M  n=7  year-ago $24,568.0M
+    next FY      avg $28,438.6M  low $27,779.7M  high $28,885.0M  n=23  year-ago $26,258.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.57 / 2.58 / 2.58
+    next qtr     2.24 / 2.24 / 2.23
+    current FY   8.53 / 8.51 / 8.51
+    next FY      9.30 / 9.30 / 9.26
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     0 / 1
+    current FY   2 / 0
+    next FY      5 / 2
+  price targets: mean 247.18  median 250.00  low 200.00  high 310.00
+
+WMG  Yahoo Finance consensus | https://finance.yahoo.com/quote/WMG/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-19
+  EPS estimates:
+    current qtr  avg 0.42  low 0.36  high 0.47  n=4  year-ago 0.51
+    next qtr     avg 0.51  low 0.47  high 0.58  n=3  year-ago 0.43
+    current FY   avg 1.78  low 1.43  high 1.96  n=6  year-ago 1.22
+    next FY      avg 1.97  low 1.72  high 2.19  n=6  year-ago 1.78
+  Revenue estimates:
+    current qtr  avg $1,903.9M  low $1,834.6M  high $2,037.0M  n=15  year-ago $1,868.0M
+    next qtr     avg $1,955.8M  low $1,937.0M  high $1,974.0M  n=7  year-ago $1,840.0M
+    current FY   avg $7,338.1M  low $7,270.6M  high $7,473.0M  n=16  year-ago $6,707.0M
+    next FY      avg $7,793.6M  low $7,642.0M  high $8,034.0M  n=15  year-ago $7,338.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.42 / 0.42 / 0.42
+    next qtr     0.51 / 0.48 / 0.49
+    current FY   1.78 / 1.78 / 1.84
+    next FY      1.97 / 1.97 / 1.96
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     0 / 2
+    current FY   1 / 1
+    next FY      0 / 2
+  price targets: mean 38.00  median 39.00  low 30.00  high 46.00
+
+KD  Yahoo Finance consensus | https://finance.yahoo.com/quote/KD/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-04
+  EPS estimates:
+    current qtr  avg 0.38  low 0.36  high 0.46  n=6  year-ago 0.38
+    next qtr     avg 0.77  low 0.66  high 0.89  n=6  year-ago 0.52
+    current FY   avg 1.85  low 1.65  high 2.22  n=6  year-ago 1.46
+    next FY      avg 2.49  low 2.06  high 3.10  n=6  year-ago 1.85
+  Revenue estimates:
+    current qtr  avg $3,623.0M  low $3,543.0M  high $3,674.0M  n=5  year-ago $3,721.0M
+    next qtr     avg $3,786.0M  low $3,745.0M  high $3,854.0M  n=4  year-ago $3,859.0M
+    current FY   avg $14,789.6M  low $14,668.0M  high $14,915.8M  n=6  year-ago $15,092.0M
+    next FY      avg $14,782.1M  low $14,468.0M  high $15,216.2M  n=6  year-ago $14,789.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.38 / 0.44 / 0.48
+    next qtr     0.77 / 0.72 / 0.73
+    current FY   1.85 / 1.88 / 1.92
+    next FY      2.49 / 2.57 / 2.64
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 3
+    next qtr     3 / 2
+    current FY   3 / 3
+    next FY      2 / 4
+  price targets: mean 14.20  median 14.00  low 13.00  high 16.00
+
+CRL  Yahoo Finance consensus | https://finance.yahoo.com/quote/CRL/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-04
+  EPS estimates:
+    current qtr  avg 2.98  low 2.93  high 3.09  n=13  year-ago 2.43
+    next qtr     avg 3.33  low 3.00  high 3.44  n=13  year-ago 2.39
+    current FY   avg 11.38  low 11.02  high 11.49  n=17  year-ago 10.28
+    next FY      avg 12.76  low 11.90  high 13.68  n=17  year-ago 11.38
+  Revenue estimates:
+    current qtr  avg $960.7M  low $951.3M  high $984.2M  n=11  year-ago $1,004.9M
+    next qtr     avg $956.5M  low $945.4M  high $974.1M  n=11  year-ago $994.2M
+    current FY   avg $3,917.1M  low $3,901.1M  high $3,958.1M  n=14  year-ago $4,015.4M
+    next FY      avg $4,017.0M  low $3,933.8M  high $4,096.0M  n=15  year-ago $3,917.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.98 / 2.95 / 3.05
+    next qtr     3.33 / 3.31 / 3.24
+    current FY   11.38 / 11.32 / 11.10
+    next FY      12.76 / 12.69 / 12.33
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 2
+    next qtr     3 / 1
+    current FY   5 / 3
+    next FY      6 / 3
+  price targets: mean 315.53  median 330.00  low 145.00  high 357.00
+
+EGP  Yahoo Finance consensus | https://finance.yahoo.com/quote/EGP/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.36  low 1.30  high 1.39  n=7  year-ago 1.26
+    next qtr     avg 1.38  low 1.27  high 1.42  n=6  year-ago 1.27
+    current FY   avg 5.65  low 5.25  high 5.95  n=3  year-ago 4.87
+    next FY      avg 5.68  low 5.09  high 5.99  n=6  year-ago 5.65
+  Revenue estimates:
+    current qtr  avg $197.3M  low $196.0M  high $199.8M  n=10  year-ago $182.1M
+    next qtr     avg $202.1M  low $199.0M  high $205.0M  n=10  year-ago $187.5M
+    current FY   avg $783.3M  low $778.3M  high $787.3M  n=11  year-ago $721.3M
+    next FY      avg $851.2M  low $817.7M  high $873.2M  n=11  year-ago $783.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.36 / 1.34 / 1.34
+    next qtr     1.38 / 1.37 / 1.36
+    current FY   5.65 / 5.29 / 5.39
+    next FY      5.68 / 5.55 / 5.52
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 0
+    next qtr     4 / 1
+    current FY   2 / 0
+    next FY      4 / 1
+  price targets: mean 226.60  median 229.50  low 199.00  high 250.00
+
+SMG  Yahoo Finance consensus | https://finance.yahoo.com/quote/SMG/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-04
+  EPS estimates:
+    current qtr  avg -2.21  low -2.39  high -2.14  n=7  year-ago -1.96
+    next qtr     avg -0.71  low -0.86  high -0.53  n=4  year-ago -0.77
+    current FY   avg 4.41  low 4.30  high 4.50  n=8  year-ago 3.74
+    next FY      avg 4.69  low 4.09  high 5.00  n=8  year-ago 4.41
+  Revenue estimates:
+    current qtr  avg $306.1M  low $301.0M  high $312.0M  n=7  year-ago $387.4M
+    next qtr     avg $362.9M  low $361.7M  high $364.0M  n=4  year-ago $354.4M
+    current FY   avg $3,289.9M  low $3,274.0M  high $3,298.0M  n=8  year-ago $3,413.1M
+    next FY      avg $3,363.2M  low $3,314.0M  high $3,391.4M  n=8  year-ago $3,289.9M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  -2.21 / -2.21 / -1.94
+    next qtr     -0.71 / -0.72 / -0.73
+    current FY   4.41 / 4.42 / 4.35
+    next FY      4.69 / 4.73 / 4.71
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 7
+    next qtr     3 / 2
+    current FY   5 / 1
+    next FY      4 / 2
+  price targets: mean 72.83  median 72.50  low 60.00  high 82.00
+
+AMP  Yahoo Finance consensus | https://finance.yahoo.com/quote/AMP/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-29
+  EPS estimates:
+    current qtr  avg 11.77  low 11.49  high 12.35  n=12  year-ago 9.87
+    next qtr     avg 12.35  low 11.97  high 13.29  n=11  year-ago 10.83
+    current FY   avg 46.44  low 45.89  high 47.65  n=13  year-ago 39.29
+    next FY      avg 51.50  low 50.35  high 54.04  n=13  year-ago 46.44
+  Revenue estimates:
+    current qtr  avg $5,079.0M  low $4,999.0M  high $5,214.0M  n=8  year-ago $4,733.0M
+    next qtr     avg $5,213.1M  low $5,098.0M  high $5,409.0M  n=7  year-ago $4,916.0M
+    current FY   avg $20,003.5M  low $19,775.0M  high $20,407.0M  n=8  year-ago $18,293.0M
+    next FY      avg $21,212.7M  low $20,613.0M  high $22,194.0M  n=8  year-ago $20,003.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  11.77 / 11.79 / 11.37
+    next qtr     12.35 / 12.41 / 11.84
+    current FY   46.44 / 46.53 / 45.40
+    next FY      51.50 / 51.67 / 49.85
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 4
+    next qtr     1 / 5
+    current FY   2 / 4
+    next FY      4 / 4
+  price targets: mean 554.64  median 540.00  low 445.00  high 638.00
+
+RJF  Yahoo Finance consensus | https://finance.yahoo.com/quote/RJF/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-28
+  EPS estimates:
+    current qtr  avg 3.27  low 2.99  high 3.44  n=14  year-ago 3.11
+    next qtr     avg 3.35  low 3.13  high 3.54  n=11  year-ago 2.86
+    current FY   avg 12.09  low 11.65  high 12.27  n=15  year-ago 10.66
+    next FY      avg 14.27  low 12.55  high 15.19  n=15  year-ago 12.09
+  Revenue estimates:
+    current qtr  avg $4,238.2M  low $4,107.0M  high $4,603.0M  n=10  year-ago $3,727.0M
+    next qtr     avg $4,247.3M  low $4,179.0M  high $4,316.5M  n=7  year-ago $3,735.0M
+    current FY   avg $15,720.6M  low $15,629.0M  high $15,768.7M  n=10  year-ago $14,065.0M
+    next FY      avg $17,523.3M  low $16,598.0M  high $17,886.1M  n=10  year-ago $15,720.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.27 / 3.35 / 3.37
+    next qtr     3.35 / 3.36 / 3.32
+    current FY   12.09 / 12.13 / 11.92
+    next FY      14.27 / 14.20 / 13.96
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 8
+    next qtr     5 / 3
+    current FY   2 / 6
+    next FY      5 / 2
+  price targets: mean 183.86  median 182.00  low 160.00  high 209.00
+
+WH  Yahoo Finance consensus | https://finance.yahoo.com/quote/WH/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.32  low 1.21  high 1.40  n=15  year-ago 0.93
+    next qtr     avg 1.03  low 0.95  high 1.13  n=15  year-ago 0.93
+    current FY   avg 4.80  low 4.64  high 4.92  n=18  year-ago 4.58
+    next FY      avg 5.33  low 5.03  high 5.59  n=18  year-ago 4.80
+  Revenue estimates:
+    current qtr  avg $366.2M  low $357.0M  high $373.0M  n=12  year-ago $334.0M
+    next qtr     avg $347.7M  low $342.7M  high $356.0M  n=8  year-ago $327.0M
+    current FY   avg $1,480.1M  low $1,454.0M  high $1,500.9M  n=16  year-ago $1,429.0M
+    next FY      avg $1,569.1M  low $1,528.5M  high $1,615.3M  n=16  year-ago $1,480.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.32 / 1.31 / 1.39
+    next qtr     1.03 / 1.02 / 1.02
+    current FY   4.80 / 4.80 / 4.79
+    next FY      5.33 / 5.33 / 5.40
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 2
+    next qtr     1 / 0
+    current FY   1 / 1
+    next FY      1 / 2
+  price targets: mean 96.56  median 97.50  low 78.00  high 115.00
+
+EVR  Yahoo Finance consensus | https://finance.yahoo.com/quote/EVR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-28
+  EPS estimates:
+    current qtr  avg 2.48  low 1.94  high 2.86  n=10  year-ago 3.48
+    next qtr     avg 4.97  low 3.49  high 5.84  n=9  year-ago 5.13
+    current FY   avg 18.11  low 15.95  high 20.05  n=10  year-ago 14.56
+    next FY      avg 20.83  low 19.30  high 23.36  n=10  year-ago 18.11
+  Revenue estimates:
+    current qtr  avg $925.7M  low $863.9M  high $1,096.0M  n=7  year-ago $1,047.1M
+    next qtr     avg $1,326.2M  low $1,205.0M  high $1,466.0M  n=7  year-ago $1,298.1M
+    current FY   avg $4,642.7M  low $4,519.4M  high $4,751.0M  n=8  year-ago $3,884.0M
+    next FY      avg $5,252.4M  low $4,864.0M  high $5,538.8M  n=8  year-ago $4,642.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.48 / 3.49 / 3.65
+    next qtr     4.97 / 5.55 / 5.56
+    current FY   18.11 / 19.54 / 19.85
+    next FY      20.83 / 22.58 / 23.27
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 7
+    next qtr     1 / 5
+    current FY   0 / 6
+    next FY      0 / 7
+  price targets: mean 332.20  median 326.50  low 285.00  high 375.00
+
+CMC  Yahoo Finance consensus | https://finance.yahoo.com/quote/CMC/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-07
+  EPS estimates:
+    current qtr  avg 1.71  low 1.57  high 1.87  n=6  year-ago 1.84
+    next qtr     avg 1.21  low 0.92  high 1.51  n=6  year-ago 1.16
+    current FY   avg 6.80  low 5.80  high 7.80  n=10  year-ago 6.82
+    next FY      avg 6.98  low 5.76  high 10.27  n=10  year-ago 6.80
+  Revenue estimates:
+    current qtr  avg $2,550.4M  low $2,471.7M  high $2,645.0M  n=6  year-ago $2,120.3M
+    next qtr     avg $2,313.5M  low $2,254.0M  high $2,387.1M  n=5  year-ago $2,132.0M
+    current FY   avg $10,379.1M  low $10,213.0M  high $10,727.7M  n=8  year-ago $9,393.9M
+    next FY      avg $10,608.8M  low $10,079.6M  high $11,188.0M  n=9  year-ago $10,379.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.71 / 1.70 / 1.58
+    next qtr     1.21 / 1.32 / 1.28
+    current FY   6.80 / 7.30 / 7.14
+    next FY      6.98 / 7.13 / 6.97
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 0
+    next qtr     0 / 2
+    current FY   2 / 2
+    next FY      1 / 3
+  price targets: mean 78.00  median 78.00  low 70.00  high 85.00
+
+KVUE  Yahoo Finance consensus | https://finance.yahoo.com/quote/KVUE/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-30
+  EPS estimates:
+    current qtr  avg 0.29  low 0.28  high 0.32  n=9  year-ago 0.28
+    next qtr     avg 0.27  low 0.25  high 0.28  n=9  year-ago 0.27
+    current FY   avg 1.18  low 1.11  high 1.23  n=14  year-ago 1.08
+    next FY      avg 1.24  low 1.13  high 1.35  n=15  year-ago 1.18
+  Revenue estimates:
+    current qtr  avg $3,862.9M  low $3,813.0M  high $3,903.0M  n=9  year-ago $3,764.0M
+    next qtr     avg $3,874.0M  low $3,785.9M  high $4,002.0M  n=9  year-ago $3,780.0M
+    current FY   avg $15,596.0M  low $15,481.0M  high $15,705.9M  n=13  year-ago $15,124.0M
+    next FY      avg $15,967.2M  low $15,793.8M  high $16,081.7M  n=13  year-ago $15,596.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.29 / 0.29 / 0.30
+    next qtr     0.27 / 0.27 / 0.27
+    current FY   1.18 / 1.18 / 1.19
+    next FY      1.24 / 1.24 / 1.25
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 5
+    next qtr     0 / 1
+    current FY   1 / 1
+    next FY      2 / 1
+  price targets: mean 19.50  median 19.00  low 18.00  high 23.00
+
+LRCX  Yahoo Finance consensus | https://finance.yahoo.com/quote/LRCX/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.18  low 2.09  high 2.28  n=25  year-ago 1.26
+    next qtr     avg 2.43  low 2.11  high 2.84  n=25  year-ago 1.27
+    current FY   avg 9.49  low 8.44  high 10.82  n=31  year-ago 5.82
+    next FY      avg 11.94  low 9.74  high 15.12  n=26  year-ago 9.49
+  Revenue estimates:
+    current qtr  avg $8,537.7M  low $8,075.1M  high $9,000.0M  n=24  year-ago $5,344.8M
+    next qtr     avg $8,846.5M  low $7,883.9M  high $9,650.0M  n=23  year-ago $5,841.5M
+    current FY   avg $34,954.7M  low $32,447.2M  high $37,314.0M  n=30  year-ago $23,232.7M
+    next FY      avg $42,105.5M  low $36,248.0M  high $48,075.0M  n=26  year-ago $34,954.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.32 / 2.31 / 1.99
+    next qtr     2.43 / 2.42 / 2.12
+    current FY   9.49 / 9.47 / 8.15
+    next FY      11.94 / 11.65 / 10.00
+  EPS revisions last 30d (up / down):
+    current qtr  22 / 0
+    next qtr     1 / 0
+    current FY   2 / 0
+    next FY      3 / 0
+  price targets: mean 376.77  median 382.50  low 290.00  high 500.00
+
+MRSH  Yahoo Finance consensus | https://finance.yahoo.com/quote/MRSH/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-15
+  EPS estimates:
+    current qtr  avg 2.21  low 2.12  high 2.28  n=21  year-ago 2.12
+    next qtr     avg 3.58  low 3.46  high 3.68  n=19  year-ago 3.29
+    current FY   avg 10.48  low 10.39  high 10.58  n=22  year-ago 9.75
+    next FY      avg 11.45  low 10.96  high 11.76  n=23  year-ago 10.48
+  Revenue estimates:
+    current qtr  avg $6,907.2M  low $6,801.0M  high $7,018.0M  n=12  year-ago $6,595.0M
+    next qtr     avg $7,960.3M  low $7,867.0M  high $8,123.0M  n=9  year-ago $7,597.0M
+    current FY   avg $28,719.3M  low $28,440.0M  high $28,882.0M  n=15  year-ago $26,981.0M
+    next FY      avg $30,100.6M  low $29,491.0M  high $30,786.0M  n=15  year-ago $28,719.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.21 / 2.23 / 2.23
+    next qtr     3.58 / 3.57 / 3.56
+    current FY   10.48 / 10.45 / 10.42
+    next FY      11.45 / 11.41 / 11.36
+  EPS revisions last 30d (up / down):
+    current qtr  6 / 4
+    next qtr     3 / 2
+    current FY   4 / 7
+    next FY      9 / 4
+  price targets: mean 205.38  median 201.00  low 180.00  high 228.00
+
+PNFP  Yahoo Finance consensus | https://finance.yahoo.com/quote/PNFP/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.62  low 2.56  high 2.72  n=22  year-ago 2.27
+    next qtr     avg 2.71  low 2.64  high 2.84  n=22  year-ago 2.24
+    current FY   avg 10.25  low 10.25  high 10.25  n=2  year-ago 8.37
+    next FY      avg 11.49  low 11.15  high 12.09  n=22  year-ago 10.25
+  Revenue estimates:
+    current qtr  avg $1,282.8M  low $1,264.9M  high $1,308.0M  n=18  year-ago $544.8M
+    next qtr     avg $1,313.4M  low $1,293.7M  high $1,337.0M  n=18  year-ago $542.2M
+    current FY   avg $5,045.0M  low $4,982.7M  high $5,116.4M  n=19  year-ago $2,054.9M
+    next FY      avg $5,473.3M  low $5,370.3M  high $5,602.2M  n=19  year-ago $5,045.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.62 / 2.62 / 2.64
+    next qtr     2.71 / 2.70 / 2.74
+    current FY   10.25 / 10.19 / 10.16
+    next FY      11.49 / 11.47 / 11.62
+  EPS revisions last 30d (up / down):
+    current qtr  10 / 6
+    next qtr     12 / 4
+    current FY   12 / 3
+    next FY      10 / 6
+  price targets: mean 118.86  median 116.00  low 105.00  high 139.00
+
+FAF  Yahoo Finance consensus | https://finance.yahoo.com/quote/FAF/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.84  low 1.77  high 1.92  n=5  year-ago 1.70
+    next qtr     avg 1.76  low 1.64  high 1.85  n=5  year-ago 1.99
+    current FY   avg 7.02  low 6.92  high 7.10  n=5  year-ago 6.05
+    next FY      avg 7.15  low 6.79  high 7.40  n=6  year-ago 7.02
+  Revenue estimates:
+    current qtr  avg $2,097.8M  low $2,050.8M  high $2,142.6M  n=4  year-ago $1,978.9M
+    next qtr     avg $2,037.2M  low $1,900.9M  high $2,100.0M  n=4  year-ago $2,049.7M
+    current FY   avg $8,089.5M  low $7,937.1M  high $8,197.9M  n=4  year-ago $7,452.2M
+    next FY      avg $8,356.8M  low $7,794.1M  high $8,679.0M  n=4  year-ago $8,089.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.84 / 1.89 / 1.83
+    next qtr     1.76 / 1.83 / 1.83
+    current FY   7.02 / 7.14 / 6.82
+    next FY      7.15 / 7.39 / 7.23
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 2
+    next qtr     1 / 1
+    current FY   0 / 2
+    next FY      0 / 2
+  price targets: mean 84.17  median 82.50  low 79.00  high 96.00
+
+H  Yahoo Finance consensus | https://finance.yahoo.com/quote/H/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-29
+  EPS estimates:
+    current qtr  avg 0.76  low 0.51  high 1.00  n=21  year-ago -0.30
+    next qtr     avg 1.00  low 0.50  high 1.33  n=21  year-ago 1.33
+    current FY   avg 3.58  low 3.06  high 4.53  n=24  year-ago 2.19
+    next FY      avg 4.86  low 3.77  high 6.43  n=24  year-ago 3.58
+  Revenue estimates:
+    current qtr  avg $1,752.4M  low $1,665.0M  high $1,810.0M  n=16  year-ago $1,786.0M
+    next qtr     avg $1,818.1M  low $1,728.0M  high $2,000.8M  n=16  year-ago $1,789.0M
+    current FY   avg $7,161.0M  low $7,032.0M  high $7,357.9M  n=20  year-ago $7,101.0M
+    next FY      avg $7,752.2M  low $7,422.7M  high $8,574.0M  n=20  year-ago $7,161.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.76 / 0.77 / 0.97
+    next qtr     1.00 / 1.01 / 1.08
+    current FY   3.58 / 3.59 / 3.62
+    next FY      4.86 / 4.87 / 5.00
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 1
+    next qtr     1 / 1
+    current FY   1 / 1
+    next FY      2 / 0
+  price targets: mean 196.44  median 200.00  low 165.00  high 224.00
+
+WAB  Yahoo Finance consensus | https://finance.yahoo.com/quote/WAB/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.64  low 2.55  high 2.77  n=10  year-ago 2.10
+    next qtr     avg 2.92  low 2.81  high 2.99  n=6  year-ago 2.71
+    current FY   avg 10.89  low 10.75  high 11.13  n=11  year-ago 8.97
+    next FY      avg 12.52  low 12.20  high 12.92  n=11  year-ago 10.89
+  Revenue estimates:
+    current qtr  avg $3,216.6M  low $3,186.0M  high $3,240.9M  n=8  year-ago $2,965.0M
+    next qtr     avg $3,153.4M  low $3,076.6M  high $3,187.0M  n=5  year-ago $2,950.0M
+    current FY   avg $12,538.5M  low $12,462.0M  high $12,641.1M  n=11  year-ago $11,167.0M
+    next FY      avg $13,430.9M  low $13,073.0M  high $13,644.8M  n=10  year-ago $12,538.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.64 / 2.64 / 2.64
+    next qtr     2.92 / 2.93 / 2.92
+    current FY   10.89 / 10.87 / 10.84
+    next FY      12.52 / 12.46 / 12.37
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 0
+    next qtr     2 / 0
+    current FY   2 / 0
+    next FY      3 / 0
+  price targets: mean 330.91  median 338.00  low 292.00  high 355.00
+
+ABBV  Yahoo Finance consensus | https://finance.yahoo.com/quote/ABBV/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-30
+  EPS estimates:
+    current qtr  avg 3.78  low 3.61  high 3.86  n=21  year-ago 1.86
+    next qtr     avg 3.88  low 3.77  high 4.18  n=19  year-ago 2.71
+    current FY   avg 13.96  low 13.81  high 14.25  n=27  year-ago 10.00
+    next FY      avg 16.19  low 15.17  high 17.65  n=25  year-ago 13.96
+  Revenue estimates:
+    current qtr  avg $17,352.2M  low $17,198.0M  high $17,584.1M  n=20  year-ago $15,776.0M
+    next qtr     avg $18,291.5M  low $18,058.6M  high $18,513.5M  n=17  year-ago $16,618.0M
+    current FY   avg $67,629.0M  low $67,246.3M  high $67,992.7M  n=24  year-ago $61,160.0M
+    next FY      avg $73,569.8M  low $70,986.2M  high $75,004.1M  n=22  year-ago $67,629.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.78 / 3.84 / 3.84
+    next qtr     3.88 / 3.87 / 4.00
+    current FY   13.96 / 14.01 / 14.16
+    next FY      16.19 / 16.27 / 16.33
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 8
+    next qtr     2 / 5
+    current FY   0 / 10
+    next FY      3 / 6
+  price targets: mean 283.50  median 286.50  low 200.00  high 328.00
+
+CME  Yahoo Finance consensus | https://finance.yahoo.com/quote/CME/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 3.01  low 2.96  high 3.10  n=11  year-ago 2.77
+    next qtr     avg 3.31  low 3.00  high 3.61  n=12  year-ago 3.36
+    current FY   avg 12.40  low 12.34  high 12.53  n=11  year-ago 11.20
+    next FY      avg 13.08  low 12.10  high 13.70  n=16  year-ago 12.40
+  Revenue estimates:
+    current qtr  avg $1,757.3M  low $1,722.0M  high $1,795.8M  n=7  year-ago $1,648.7M
+    next qtr     avg $1,862.4M  low $1,730.6M  high $1,965.0M  n=8  year-ago $1,880.1M
+    current FY   avg $7,100.9M  low $7,045.0M  high $7,178.0M  n=10  year-ago $6,520.6M
+    next FY      avg $7,407.9M  low $7,086.2M  high $7,738.8M  n=14  year-ago $7,100.9M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.01 / 2.96 / 2.97
+    next qtr     3.31 / 3.28 / 3.29
+    current FY   12.40 / 12.25 / 12.27
+    next FY      13.08 / 12.93 / 12.94
+  EPS revisions last 30d (up / down):
+    current qtr  3 / 4
+    next qtr     3 / 4
+    current FY   8 / 2
+    next FY      8 / 2
+  price targets: mean 296.12  median 298.50  low 218.00  high 337.00
+
+USB  Yahoo Finance consensus | https://finance.yahoo.com/quote/USB/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-15
+  EPS estimates:
+    current qtr  avg 1.41  low 1.36  high 1.48  n=19  year-ago 1.26
+    next qtr     avg 1.31  low 1.25  high 1.41  n=14  year-ago 1.18
+    current FY   avg 5.28  low 5.15  high 5.35  n=21  year-ago 4.62
+    next FY      avg 5.83  low 5.37  high 6.05  n=23  year-ago 5.28
+  Revenue estimates:
+    current qtr  avg $8,087.4M  low $8,055.0M  high $8,151.1M  n=11  year-ago $7,365.0M
+    next qtr     avg $8,051.2M  low $7,981.0M  high $8,177.2M  n=8  year-ago $7,288.0M
+    current FY   avg $31,070.4M  low $31,025.0M  high $31,190.8M  n=10  year-ago $28,656.0M
+    next FY      avg $33,336.4M  low $32,543.0M  high $33,820.0M  n=14  year-ago $31,070.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.41 / 1.39 / 1.39
+    next qtr     1.31 / 1.31 / 1.31
+    current FY   5.28 / 5.22 / 5.21
+    next FY      5.83 / 5.80 / 5.79
+  EPS revisions last 30d (up / down):
+    current qtr  10 / 6
+    next qtr     6 / 2
+    current FY   11 / 3
+    next FY      9 / 7
+  price targets: mean 68.45  median 68.00  low 61.00  high 76.00
+
+SARO  Yahoo Finance consensus | https://finance.yahoo.com/quote/SARO/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-05
+  EPS estimates:
+    current qtr  avg 0.30  low 0.26  high 0.32  n=10  year-ago 0.20
+    next qtr     avg 0.34  low 0.32  high 0.37  n=9  year-ago 0.24
+    current FY   avg 1.18  low 1.11  high 1.20  n=13  year-ago 0.83
+    next FY      avg 1.47  low 1.35  high 1.57  n=11  year-ago 1.18
+  Revenue estimates:
+    current qtr  avg $1,565.7M  low $1,531.9M  high $1,604.6M  n=13  year-ago $1,498.0M
+    next qtr     avg $1,651.9M  low $1,575.6M  high $1,721.2M  n=13  year-ago $1,600.0M
+    current FY   avg $6,448.0M  low $6,384.7M  high $6,479.6M  n=15  year-ago $6,062.5M
+    next FY      avg $7,053.4M  low $6,594.0M  high $7,299.8M  n=14  year-ago $6,448.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.30 / 0.31 / 0.30
+    next qtr     0.34 / 0.34 / 0.35
+    current FY   1.18 / 1.19 / 1.18
+    next FY      1.47 / 1.49 / 1.48
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 3
+    next qtr     2 / 1
+    current FY   0 / 5
+    next FY      0 / 1
+  price targets: mean 34.03  median 34.00  low 25.00  high 42.40
+
+UDR  Yahoo Finance consensus | https://finance.yahoo.com/quote/UDR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-02
+  EPS estimates:
+    current qtr  avg 0.15  low 0.12  high 0.22  n=8  year-ago 0.12
+    next qtr     avg 0.16  low 0.11  high 0.22  n=7  year-ago 0.67
+    current FY   avg 1.18  low 1.12  high 1.24  n=3  year-ago 1.13
+    next FY      avg 0.56  low 0.56  high 0.56  n=1  year-ago n/a
+  Revenue estimates:
+    current qtr  avg $435.1M  low $435.1M  high $435.1M  n=1  year-ago $429.3M
+    next qtr     avg $437.3M  low $437.3M  high $437.3M  n=1  year-ago $428.8M
+    current FY   avg $1,701.4M  low $1,691.6M  high $1,724.2M  n=11  year-ago $1,701.0M
+    next FY      avg $1,746.9M  low $1,732.0M  high $1,779.9M  n=11  year-ago $1,701.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.15 / 0.14 / 0.12
+    next qtr     0.16 / 0.15 / 0.13
+    current FY   1.18 / 1.06 / 0.94
+    next FY      0.56 / 0.56 / 0.56
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 1
+    next qtr     3 / 0
+    current FY   2 / 2
+    next FY      0 / 1
+  price targets: mean 39.60  median 39.00  low 35.00  high 45.00
+
+TXN  Yahoo Finance consensus | https://finance.yahoo.com/quote/TXN/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.28  low 2.11  high 2.40  n=21  year-ago 1.27
+    next qtr     avg 2.29  low 2.05  high 2.69  n=20  year-ago 1.68
+    current FY   avg 8.53  low 8.28  high 8.71  n=25  year-ago 5.45
+    next FY      avg 10.26  low 9.15  high 13.50  n=25  year-ago 8.53
+  Revenue estimates:
+    current qtr  avg $5,751.5M  low $5,188.0M  high $6,064.0M  n=24  year-ago $4,423.0M
+    next qtr     avg $5,813.9M  low $5,411.3M  high $6,393.0M  n=23  year-ago $4,825.0M
+    current FY   avg $21,972.1M  low $21,400.0M  high $22,360.0M  n=30  year-ago $17,682.0M
+    next FY      avg $25,183.4M  low $23,171.2M  high $29,603.0M  n=30  year-ago $21,972.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.28 / 2.28 / 2.27
+    next qtr     2.29 / 2.26 / 2.25
+    current FY   8.53 / 8.51 / 8.50
+    next FY      10.26 / 10.10 / 9.95
+  EPS revisions last 30d (up / down):
+    current qtr  24 / 0
+    next qtr     21 / 0
+    current FY   25 / 0
+    next FY      23 / 0
+  price targets: mean 331.11  median 340.00  low 225.00  high 400.00
+
+TCBI  Yahoo Finance consensus | https://finance.yahoo.com/quote/TCBI/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-21
+  EPS estimates:
+    current qtr  avg 1.95  low 1.87  high 2.02  n=12  year-ago 2.18
+    next qtr     avg 2.03  low 1.87  high 2.18  n=11  year-ago 2.08
+    current FY   avg 7.45  low 7.20  high 7.70  n=12  year-ago 6.80
+    next FY      avg 8.23  low 7.58  high 8.73  n=12  year-ago 7.45
+  Revenue estimates:
+    current qtr  avg $339.9M  low $335.8M  high $347.6M  n=9  year-ago $340.9M
+    next qtr     avg $342.0M  low $333.3M  high $346.5M  n=9  year-ago $327.5M
+    current FY   avg $1,342.0M  low $1,330.3M  high $1,352.8M  n=9  year-ago $1,257.7M
+    next FY      avg $1,427.7M  low $1,387.7M  high $1,449.8M  n=9  year-ago $1,342.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.95 / 1.93 / 2.08
+    next qtr     2.03 / 2.01 / 2.08
+    current FY   7.45 / 7.39 / 7.57
+    next FY      8.23 / 8.21 / 8.37
+  EPS revisions last 30d (up / down):
+    current qtr  6 / 2
+    next qtr     4 / 3
+    current FY   4 / 2
+    next FY      4 / 5
+  price targets: mean 105.08  median 106.00  low 100.00  high 113.00
+
+URI  Yahoo Finance consensus | https://finance.yahoo.com/quote/URI/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 13.26  low 12.30  high 14.85  n=17  year-ago 11.09
+    next qtr     avg 11.19  low 10.06  high 11.86  n=9  year-ago 9.71
+    current FY   avg 49.68  low 47.88  high 52.73  n=19  year-ago 42.06
+    next FY      avg 57.85  low 53.04  high 65.35  n=19  year-ago 49.68
+  Revenue estimates:
+    current qtr  avg $4,807.5M  low $4,719.0M  high $4,896.0M  n=2  year-ago $4,208.0M
+    next qtr     avg $4,370.5M  low $4,251.2M  high $4,462.0M  n=8  year-ago $3,985.0M
+    current FY   avg $18,044.5M  low $17,959.0M  high $18,130.0M  n=2  year-ago $16,099.0M
+    next FY      avg $19,344.8M  low $18,713.0M  high $20,100.0M  n=20  year-ago $18,044.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  13.26 / 13.19 / 12.79
+    next qtr     11.19 / 11.17 / 10.79
+    current FY   49.68 / 49.58 / 47.48
+    next FY      57.85 / 57.68 / 54.09
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 0
+    next qtr     1 / 0
+    current FY   2 / 0
+    next FY      3 / 0
+  price targets: mean 1,261.10  median 1,300.00  low 950.00  high 1,610.00
+
+AA  Yahoo Finance consensus | https://finance.yahoo.com/quote/AA/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-15
+  EPS estimates:
+    current qtr  avg 1.56  low 1.19  high 2.10  n=10  year-ago 1.26
+    next qtr     avg 1.38  low 0.72  high 1.91  n=6  year-ago 1.40
+    current FY   avg 6.79  low 5.90  high 7.43  n=14  year-ago 3.77
+    next FY      avg 5.30  low 3.01  high 7.79  n=14  year-ago 6.79
+  Revenue estimates:
+    current qtr  avg $3,805.6M  low $3,552.1M  high $4,040.0M  n=7  year-ago $3,449.0M
+    next qtr     avg $3,612.8M  low $3,455.5M  high $3,752.0M  n=3  year-ago $3,193.0M
+    current FY   avg $14,688.1M  low $14,415.1M  high $14,906.0M  n=12  year-ago $12,831.0M
+    next FY      avg $14,937.1M  low $13,113.0M  high $18,471.0M  n=12  year-ago $14,688.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.56 / 1.49 / 1.56
+    next qtr     1.38 / 1.22 / 1.41
+    current FY   6.79 / 6.44 / 6.50
+    next FY      5.30 / 5.50 / 5.80
+  EPS revisions last 30d (up / down):
+    current qtr  5 / 2
+    next qtr     1 / 3
+    current FY   5 / 3
+    next FY      4 / 4
+  price targets: mean 55.90  median 55.00  low 48.00  high 72.00
+
+HXL  Yahoo Finance consensus | https://finance.yahoo.com/quote/HXL/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.50  low 0.42  high 0.56  n=16  year-ago 0.37
+    next qtr     avg 0.67  low 0.61  high 0.79  n=15  year-ago 0.52
+    current FY   avg 2.40  low 2.33  high 2.59  n=17  year-ago 1.76
+    next FY      avg 3.16  low 2.82  high 3.50  n=15  year-ago 2.40
+  Revenue estimates:
+    current qtr  avg $502.1M  low $483.1M  high $529.4M  n=16  year-ago $456.2M
+    next qtr     avg $560.6M  low $530.0M  high $584.0M  n=16  year-ago $491.3M
+    current FY   avg $2,094.2M  low $2,054.0M  high $2,125.9M  n=17  year-ago $1,893.9M
+    next FY      avg $2,336.7M  low $2,229.0M  high $2,921.0M  n=17  year-ago $2,094.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.50 / 0.50 / 0.49
+    next qtr     0.67 / 0.65 / 0.65
+    current FY   2.40 / 2.40 / 2.28
+    next FY      3.16 / 3.13 / 3.20
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 3
+    next qtr     2 / 0
+    current FY   4 / 1
+    next FY      2 / 0
+  price targets: mean 104.47  median 105.00  low 90.00  high 123.00
+
+MCO  Yahoo Finance consensus | https://finance.yahoo.com/quote/MCO/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 3.58  low 3.35  high 3.77  n=21  year-ago 3.64
+    next qtr     avg 4.71  low 4.01  high 5.05  n=16  year-ago 4.33
+    current FY   avg 16.87  low 16.55  high 17.40  n=24  year-ago 14.94
+    next FY      avg 18.74  low 17.16  high 19.97  n=24  year-ago 16.87
+  Revenue estimates:
+    current qtr  avg $1,935.3M  low $1,880.0M  high $2,039.0M  n=19  year-ago $1,889.0M
+    next qtr     avg $2,200.3M  low $2,034.0M  high $2,256.8M  n=13  year-ago $2,079.0M
+    current FY   avg $8,262.5M  low $8,171.3M  high $8,401.0M  n=21  year-ago $7,718.0M
+    next FY      avg $8,828.2M  low $8,473.0M  high $8,955.1M  n=21  year-ago $8,262.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.58 / 3.66 / 3.70
+    next qtr     4.71 / 4.76 / 4.77
+    current FY   16.87 / 16.96 / 16.87
+    next FY      18.74 / 18.89 / 18.81
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 5
+    next qtr     1 / 2
+    current FY   2 / 4
+    next FY      3 / 3
+  price targets: mean 551.29  median 559.00  low 470.00  high 600.00
+
+FHN  Yahoo Finance consensus | https://finance.yahoo.com/quote/FHN/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-13
+  EPS estimates:
+    current qtr  avg 0.54  low 0.49  high 0.58  n=19  year-ago 0.52
+    next qtr     avg 0.54  low 0.51  high 0.57  n=15  year-ago 0.53
+    current FY   avg 2.14  low 2.10  high 2.18  n=19  year-ago 1.89
+    next FY      avg 2.33  low 2.12  high 2.45  n=19  year-ago 2.14
+  Revenue estimates:
+    current qtr  avg $891.5M  low $864.0M  high $903.4M  n=10  year-ago $892.0M
+    next qtr     avg $894.0M  low $883.0M  high $908.9M  n=6  year-ago $865.0M
+    current FY   avg $3,485.3M  low $3,104.6M  high $3,549.2M  n=10  year-ago $3,434.0M
+    next FY      avg $3,696.5M  low $3,574.8M  high $3,819.9M  n=11  year-ago $3,485.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.54 / 0.54 / 0.54
+    next qtr     0.54 / 0.54 / 0.54
+    current FY   2.14 / 2.14 / 2.13
+    next FY      2.33 / 2.30 / 2.31
+  EPS revisions last 30d (up / down):
+    current qtr  7 / 2
+    next qtr     3 / 1
+    current FY   6 / 2
+    next FY      6 / 4
+  price targets: mean 27.04  median 26.00  low 25.00  high 31.00
+
+ROIV  Yahoo Finance consensus | https://finance.yahoo.com/quote/ROIV/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-09
+  EPS estimates:
+    current qtr  avg -0.45  low -0.59  high -0.35  n=3  year-ago -0.28
+    next qtr     avg -0.41  low -0.53  high -0.35  n=3  year-ago -0.24
+    current FY   avg -1.58  low -1.96  high -1.23  n=3  year-ago -1.08
+    next FY      avg -1.72  low -2.10  high -1.27  n=3  year-ago -1.58
+  Revenue estimates:
+    current qtr  avg $3.7M  low 0  high $8.0M  n=11  year-ago $1.6M
+    next qtr     avg $12.3M  low 0  high $27.0M  n=11  year-ago $2.0M
+    current FY   avg $52.1M  low $13.9M  high $91.4M  n=12  year-ago $8.3M
+    next FY      avg $410.3M  low $119.0M  high $637.3M  n=12  year-ago $52.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  -0.45 / -0.45 / -0.40
+    next qtr     -0.41 / -0.41 / -0.37
+    current FY   -1.58 / -1.58 / -1.50
+    next FY      -1.72 / -1.72 / -1.56
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 3
+    next qtr     0 / 3
+    current FY   0 / 3
+    next FY      1 / 2
+  price targets: mean 48.91  median 47.00  low 41.00  high 62.00
+
+IBKR  Yahoo Finance consensus | https://finance.yahoo.com/quote/IBKR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-15
+  EPS estimates:
+    current qtr  avg 0.74  low 0.70  high 0.79  n=13  year-ago 0.65
+    next qtr     avg 0.77  low 0.72  high 0.81  n=11  year-ago 0.60
+    current FY   avg 2.70  low 2.66  high 2.75  n=16  year-ago 2.19
+    next FY      avg 3.33  low 3.09  high 3.65  n=17  year-ago 2.70
+  Revenue estimates:
+    current qtr  avg $1,992.7M  low $1,933.0M  high $2,099.0M  n=8  year-ago $1,670.0M
+    next qtr     avg $2,089.4M  low $2,034.6M  high $2,167.0M  n=7  year-ago $1,680.0M
+    current FY   avg $7,438.7M  low $7,368.0M  high $7,533.2M  n=9  year-ago $6,156.0M
+    next FY      avg $8,916.4M  low $8,749.0M  high $9,300.2M  n=9  year-ago $7,438.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.74 / 0.73 / 0.71
+    next qtr     0.77 / 0.74 / 0.71
+    current FY   2.70 / 2.70 / 2.74
+    next FY      3.33 / 3.18 / 3.09
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 1
+    next qtr     6 / 0
+    current FY   3 / 4
+    next FY      8 / 1
+  price targets: mean 104.66  median 104.80  low 75.00  high 120.00
+
+NWSA  Yahoo Finance consensus | https://finance.yahoo.com/quote/NWSA/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-05
+  EPS estimates:
+    current qtr  avg 0.26  low 0.24  high 0.27  n=4  year-ago 0.22
+    next qtr     avg 0.47  low 0.45  high 0.52  n=4  year-ago 0.40
+    current FY   avg 1.32  low 1.25  high 1.39  n=5  year-ago 1.18
+    next FY      avg 1.51  low 1.28  high 1.69  n=5  year-ago 1.32
+  Revenue estimates:
+    current qtr  avg $2,263.8M  low $2,232.0M  high $2,295.3M  n=8  year-ago $2,144.0M
+    next qtr     avg $2,473.7M  low $2,456.8M  high $2,495.9M  n=8  year-ago $2,362.0M
+    current FY   avg $9,405.8M  low $9,170.8M  high $9,684.0M  n=13  year-ago $9,028.0M
+    next FY      avg $9,726.0M  low $9,564.6M  high $9,955.3M  n=12  year-ago $9,405.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.26 / 0.26 / 0.26
+    next qtr     0.47 / 0.47 / 0.47
+    current FY   1.32 / 1.32 / 1.29
+    next FY      1.51 / 1.47 / 1.46
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 1
+    next qtr     0 / 2
+    current FY   2 / 2
+    next FY      2 / 2
+  price targets: mean 36.03  median 35.00  low 30.30  high 43.00
+
+ELV  Yahoo Finance consensus | https://finance.yahoo.com/quote/ELV/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 2.45  low 1.91  high 3.31  n=19  year-ago 3.33
+    next qtr     avg 12.02  low 9.96  high 13.19  n=9  year-ago 12.58
+    current FY   avg 27.53  low 26.75  high 29.42  n=22  year-ago 30.29
+    next FY      avg 29.73  low 29.12  high 30.60  n=18  year-ago 27.53
+  Revenue estimates:
+    current qtr  avg $47,908.0M  low $47,022.0M  high $48,789.0M  n=8  year-ago $49,311.0M
+    next qtr     avg $49,237.8M  low $48,257.0M  high $50,520.0M  n=4  year-ago $49,494.0M
+    current FY   avg $197,580.6M  low $196,782.0M  high $199,058.9M  n=7  year-ago $197,584.0M
+    next FY      avg $200,446.6M  low $193,083.0M  high $209,253.0M  n=11  year-ago $197,580.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.45 / 2.43 / 2.47
+    next qtr     12.02 / 12.12 / 12.03
+    current FY   27.53 / 27.17 / 27.16
+    next FY      29.73 / 29.54 / 29.63
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 1
+    next qtr     1 / 0
+    current FY   3 / 0
+    next FY      2 / 1
+  price targets: mean 456.00  median 465.00  low 395.00  high 508.00
+
+BJ  Yahoo Finance consensus | https://finance.yahoo.com/quote/BJ/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-20
+  EPS estimates:
+    current qtr  avg 1.24  low 1.11  high 1.36  n=19  year-ago 1.16
+    next qtr     avg 1.02  low 0.93  high 1.15  n=19  year-ago 0.96
+    current FY   avg 4.71  low 4.61  high 4.80  n=22  year-ago 4.40
+    next FY      avg 5.03  low 4.76  high 5.45  n=22  year-ago 4.71
+  Revenue estimates:
+    current qtr  avg $5,932.1M  low $5,619.0M  high $6,143.3M  n=18  year-ago $5,348.2M
+    next qtr     avg $6,147.9M  low $5,854.2M  high $6,580.0M  n=18  year-ago $5,575.4M
+    current FY   avg $23,972.6M  low $23,376.0M  high $24,583.5M  n=21  year-ago $21,457.3M
+    next FY      avg $25,332.7M  low $24,525.4M  high $26,548.0M  n=21  year-ago $23,972.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.24 / 1.24 / 1.23
+    next qtr     1.02 / 1.01 / 1.02
+    current FY   4.71 / 4.71 / 4.52
+    next FY      5.03 / 5.02 / 4.88
+  EPS revisions last 30d (up / down):
+    current qtr  10 / 8
+    next qtr     1 / 0
+    current FY   7 / 1
+    next FY      2 / 0
+  price targets: mean 104.80  median 104.50  low 82.00  high 120.00
+
+CAT  Yahoo Finance consensus | https://finance.yahoo.com/quote/CAT/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-29
+  EPS estimates:
+    current qtr  avg 7.03  low 6.23  high 8.48  n=22  year-ago 4.95
+    next qtr     avg 6.99  low 6.01  high 8.28  n=21  year-ago 5.16
+    current FY   avg 27.33  low 24.26  high 30.47  n=27  year-ago 19.06
+    next FY      avg 32.59  low 28.58  high 36.23  n=27  year-ago 27.33
+  Revenue estimates:
+    current qtr  avg $20,692.0M  low $19,956.0M  high $23,067.0M  n=12  year-ago $17,638.0M
+    next qtr     avg $21,422.2M  low $19,663.0M  high $24,598.0M  n=12  year-ago $19,133.0M
+    current FY   avg $79,597.4M  low $75,927.0M  high $85,623.0M  n=17  year-ago $67,589.0M
+    next FY      avg $88,665.3M  low $82,626.0M  high $95,432.0M  n=17  year-ago $79,597.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  7.03 / 6.92 / 6.48
+    next qtr     6.99 / 6.92 / 6.71
+    current FY   27.33 / 27.19 / 24.72
+    next FY      32.59 / 32.38 / 30.45
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     1 / 1
+    current FY   1 / 1
+    next FY      1 / 1
+  price targets: mean 945.76  median 957.50  low 575.00  high 1,155.00
+
+PNC  Yahoo Finance consensus | https://finance.yahoo.com/quote/PNC/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-15
+  EPS estimates:
+    current qtr  avg 5.04  low 4.85  high 5.24  n=17  year-ago 4.88
+    next qtr     avg 5.03  low 4.40  high 5.26  n=13  year-ago 4.13
+    current FY   avg 18.95  low 18.61  high 19.48  n=20  year-ago 16.59
+    next FY      avg 21.40  low 19.98  high 21.91  n=21  year-ago 18.95
+  Revenue estimates:
+    current qtr  avg $6,826.4M  low $6,723.0M  high $6,865.0M  n=5  year-ago $6,071.0M
+    next qtr     avg $6,780.0M  low $6,780.0M  high $6,780.0M  n=1  year-ago $6,165.0M
+    current FY   avg $26,348.5M  low $26,087.0M  high $26,463.0M  n=9  year-ago $23,099.0M
+    next FY      avg $27,773.4M  low $27,421.0M  high $28,244.0M  n=8  year-ago $26,348.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  5.04 / 5.10 / 5.09
+    next qtr     5.03 / 5.04 / 5.04
+    current FY   18.95 / 18.88 / 18.83
+    next FY      21.40 / 21.50 / 21.46
+  EPS revisions last 30d (up / down):
+    current qtr  6 / 5
+    next qtr     3 / 2
+    current FY   7 / 4
+    next FY      10 / 3
+  price targets: mean 263.71  median 265.00  low 238.00  high 286.00
+
+TMO  Yahoo Finance consensus | https://finance.yahoo.com/quote/TMO/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 7.22  low 7.00  high 7.40  n=20  year-ago 6.57
+    next qtr     avg 6.02  low 5.64  high 6.53  n=13  year-ago 5.44
+    current FY   avg 25.18  low 25.03  high 25.40  n=26  year-ago 22.87
+    next FY      avg 27.61  low 26.49  high 29.07  n=28  year-ago 25.18
+  Revenue estimates:
+    current qtr  avg $12,882.2M  low $12,715.0M  high $13,106.8M  n=19  year-ago $12,215.0M
+    next qtr     avg $11,723.1M  low $11,626.5M  high $11,874.6M  n=10  year-ago $11,005.0M
+    current FY   avg $47,895.1M  low $47,711.4M  high $48,130.0M  n=25  year-ago $44,556.0M
+    next FY      avg $50,409.1M  low $49,901.0M  high $51,491.0M  n=26  year-ago $47,895.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  7.22 / 7.26 / 7.32
+    next qtr     6.02 / 6.01 / 5.98
+    current FY   25.18 / 25.13 / 24.98
+    next FY      27.61 / 27.54 / 27.31
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 1
+    next qtr     1 / 0
+    current FY   4 / 0
+    next FY      5 / 1
+  price targets: mean 706.69  median 732.50  low 560.00  high 820.00
+
+AXP  Yahoo Finance consensus | https://finance.yahoo.com/quote/AXP/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-23
+  EPS estimates:
+    current qtr  avg 4.50  low 4.32  high 4.68  n=21  year-ago 4.14
+    next qtr     avg 4.30  low 4.06  high 4.50  n=23  year-ago 3.53
+    current FY   avg 17.64  low 17.40  high 18.10  n=25  year-ago 15.38
+    next FY      avg 20.13  low 19.25  high 20.55  n=28  year-ago 17.64
+  Revenue estimates:
+    current qtr  avg $20,115.5M  low $19,924.0M  high $20,365.0M  n=19  year-ago $18,426.0M
+    next qtr     avg $20,791.8M  low $20,491.0M  high $20,973.0M  n=19  year-ago $18,980.0M
+    current FY   avg $79,465.8M  low $79,110.0M  high $79,803.0M  n=24  year-ago $72,229.0M
+    next FY      avg $86,613.0M  low $84,332.3M  high $87,613.0M  n=24  year-ago $79,465.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  4.50 / 4.59 / 4.69
+    next qtr     4.30 / 4.29 / 4.36
+    current FY   17.64 / 17.67 / 17.71
+    next FY      20.13 / 20.10 / 20.15
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 9
+    next qtr     8 / 4
+    current FY   7 / 5
+    next FY      6 / 6
+  price targets: mean 369.44  median 370.00  low 320.00  high 450.00
+
+CRS  Yahoo Finance consensus | https://finance.yahoo.com/quote/CRS/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-22
+  EPS estimates:
+    current qtr  avg 3.03  low 2.94  high 3.10  n=6  year-ago 2.43
+    next qtr     avg 3.08  low 2.92  high 3.17  n=5  year-ago 2.33
+    current FY   avg 13.46  low 12.93  high 13.78  n=7  year-ago 10.76
+    next FY      avg 15.96  low 15.32  high 16.65  n=5  year-ago 13.46
+  Revenue estimates:
+    current qtr  avg $830.7M  low $799.0M  high $863.4M  n=7  year-ago $733.7M
+    next qtr     avg $828.1M  low $807.0M  high $852.8M  n=6  year-ago $728.0M
+    current FY   avg $3,493.6M  low $3,393.4M  high $3,583.0M  n=8  year-ago $3,124.2M
+    next FY      avg $3,852.7M  low $3,650.5M  high $4,106.5M  n=6  year-ago $3,493.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.03 / 3.00 / 2.85
+    next qtr     3.08 / 3.08 / 2.86
+    current FY   13.46 / 13.38 / 12.91
+    next FY      15.96 / 15.88 / 15.36
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     1 / 0
+    current FY   2 / 0
+    next FY      2 / 0
+  price targets: mean 536.25  median 537.50  low 430.00  high 620.00
+
+KMI  Yahoo Finance consensus | https://finance.yahoo.com/quote/KMI/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.33  low 0.30  high 0.37  n=14  year-ago 0.29
+    next qtr     avg 0.39  low 0.36  high 0.42  n=13  year-ago 0.39
+    current FY   avg 1.56  low 1.45  high 1.68  n=17  year-ago 1.30
+    next FY      avg 1.55  low 1.43  high 1.76  n=18  year-ago 1.56
+  Revenue estimates:
+    current qtr  avg $4,382.2M  low $4,060.0M  high $4,590.0M  n=7  year-ago $4,146.0M
+    next qtr     avg $4,611.7M  low $4,343.0M  high $4,804.6M  n=7  year-ago $4,508.0M
+    current FY   avg $18,338.3M  low $17,708.0M  high $18,678.7M  n=11  year-ago $16,937.0M
+    next FY      avg $18,714.0M  low $17,842.0M  high $19,359.0M  n=11  year-ago $18,338.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.33 / 0.33 / 0.32
+    next qtr     0.39 / 0.39 / 0.39
+    current FY   1.56 / 1.56 / 1.49
+    next FY      1.55 / 1.55 / 1.50
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 1
+    next qtr     2 / 1
+    current FY   5 / 0
+    next FY      5 / 1
+  price targets: mean 36.09  median 36.00  low 31.00  high 43.00
+
+DELL  Yahoo Finance consensus | https://finance.yahoo.com/quote/DELL/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-27
+  EPS estimates:
+    current qtr  avg 6.56  low 6.41  high 7.37  n=24  year-ago 2.59
+    next qtr     avg 6.87  low 6.57  high 7.50  n=5  year-ago 3.37
+    current FY   avg 25.90  low 25.50  high 28.93  n=26  year-ago 10.30
+    next FY      avg 26.81  low 19.12  high 30.19  n=7  year-ago 24.46
+  Revenue estimates:
+    current qtr  avg $49,189.6M  low $48,883.7M  high $49,723.7M  n=21  year-ago $27,005.0M
+    next qtr     avg $53,497.7M  low $52,037.0M  high $56,726.3M  n=21  year-ago $33,379.0M
+    current FY   avg $193,444.3M  low $192,006.7M  high $197,263.0M  n=22  year-ago $113,538.0M
+    next FY      avg $229,120.8M  low $158,379.0M  high $293,021.3M  n=25  year-ago $193,444.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  6.56 / 6.56 / 4.23
+    next qtr     6.87 / 4.05 / 3.85
+    current FY   25.90 / 25.88 / 18.40
+    next FY      26.81 / 24.66 / 18.67
+  EPS revisions last 30d (up / down):
+    current qtr  22 / 0
+    next qtr     3 / 0
+    current FY   23 / 0
+    next FY      4 / 0
+  price targets: mean 593.00  median 600.00  low 480.00  high 735.00
+
+FBIN  Yahoo Finance consensus | https://finance.yahoo.com/quote/FBIN/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-03
+  EPS estimates:
+    current qtr  avg 0.74  low 0.69  high 0.76  n=19  year-ago 1.09
+    next qtr     avg 0.72  low 0.68  high 0.76  n=19  year-ago 0.86
+    current FY   avg 3.34  low 3.24  high 3.40  n=20  year-ago 3.61
+    next FY      avg 3.30  low 3.00  high 3.60  n=21  year-ago 3.34
+  Revenue estimates:
+    current qtr  avg $1,123.6M  low $1,095.2M  high $1,136.4M  n=18  year-ago $1,149.2M
+    next qtr     avg $1,058.2M  low $1,039.5M  high $1,082.0M  n=18  year-ago $1,077.5M
+    current FY   avg $4,346.9M  low $4,299.8M  high $4,373.0M  n=19  year-ago $4,463.2M
+    next FY      avg $4,413.5M  low $4,189.2M  high $4,548.0M  n=19  year-ago $4,346.9M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.74 / 0.74 / 0.93
+    next qtr     0.72 / 0.73 / 0.89
+    current FY   3.34 / 3.35 / 3.20
+    next FY      3.30 / 3.45 / 3.66
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 15
+    next qtr     0 / 15
+    current FY   15 / 0
+    next FY      0 / 3
+  price targets: mean 51.12  median 48.00  low 41.00  high 70.00
+
+SEIC  Yahoo Finance consensus | https://finance.yahoo.com/quote/SEIC/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.68  low 1.63  high 1.71  n=4  year-ago 1.38
+    next qtr     avg 1.67  low 1.61  high 1.72  n=4  year-ago 1.44
+    current FY   avg 6.32  low 5.91  high 6.45  n=8  year-ago 5.63
+    next FY      avg 7.09  low 6.82  high 7.26  n=8  year-ago 6.32
+  Revenue estimates:
+    current qtr  avg $666.0M  low $666.0M  high $666.0M  n=2  year-ago $607.9M
+    next qtr     avg $672.1M  low $665.2M  high $679.0M  n=2  year-ago $622.2M
+    current FY   avg $2,594.1M  low $2,591.9M  high $2,597.0M  n=4  year-ago $2,297.4M
+    next FY      avg $2,800.4M  low $2,750.5M  high $2,861.6M  n=5  year-ago $2,594.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.68 / 1.68 / 1.67
+    next qtr     1.67 / 1.64 / 1.63
+    current FY   6.32 / 6.25 / 6.24
+    next FY      7.09 / 6.94 / 6.92
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 1
+    next qtr     1 / 0
+    current FY   1 / 1
+    next FY      2 / 0
+  price targets: mean 119.38  median 125.00  low 98.00  high 129.00
+
+PINS  Yahoo Finance consensus | https://finance.yahoo.com/quote/PINS/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-29
+  EPS estimates:
+    current qtr  avg 0.49  low 0.42  high 0.53  n=20  year-ago 0.38
+    next qtr     avg 0.84  low 0.73  high 0.92  n=19  year-ago 0.67
+    current FY   avg 2.02  low 1.86  high 2.26  n=25  year-ago 1.60
+    next FY      avg 2.39  low 2.06  high 2.81  n=25  year-ago 2.02
+  Revenue estimates:
+    current qtr  avg $1,205.7M  low $1,198.0M  high $1,224.1M  n=30  year-ago $1,049.2M
+    next qtr     avg $1,516.3M  low $1,434.5M  high $1,550.7M  n=30  year-ago $1,319.3M
+    current FY   avg $4,913.9M  low $4,845.7M  high $5,030.2M  n=36  year-ago $4,221.8M
+    next FY      avg $5,552.6M  low $5,295.3M  high $5,721.0M  n=36  year-ago $4,913.9M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.49 / 0.48 / 0.44
+    next qtr     0.84 / 0.82 / 0.79
+    current FY   2.02 / 2.01 / 1.90
+    next FY      2.39 / 2.40 / 2.23
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     1 / 0
+    current FY   1 / 0
+    next FY      3 / 0
+  price targets: mean 29.08  median 29.50  low 22.00  high 42.36
+
+ROL  Yahoo Finance consensus | https://finance.yahoo.com/quote/ROL/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.27  low 0.25  high 0.28  n=14  year-ago 0.25
+    next qtr     avg 0.24  low 0.23  high 0.26  n=11  year-ago 0.24
+    current FY   avg 1.16  low 1.12  high 1.20  n=18  year-ago 1.12
+    next FY      avg 1.27  low 1.22  high 1.34  n=19  year-ago 1.16
+  Revenue estimates:
+    current qtr  avg $988.6M  low $968.0M  high $1,000.6M  n=11  year-ago $912.9M
+    next qtr     avg $983.5M  low $976.0M  high $998.1M  n=8  year-ago $906.4M
+    current FY   avg $4,080.6M  low $4,035.5M  high $4,107.0M  n=17  year-ago $3,761.1M
+    next FY      avg $4,424.3M  low $4,308.2M  high $4,511.7M  n=17  year-ago $4,080.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.27 / 0.27 / 0.28
+    next qtr     0.24 / 0.25 / 0.25
+    current FY   1.16 / 1.17 / 1.24
+    next FY      1.27 / 1.30 / 1.39
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 2
+    next qtr     0 / 3
+    current FY   0 / 5
+    next FY      1 / 7
+  price targets: mean 39.82  median 36.00  low 27.00  high 66.00
+
+NEE  Yahoo Finance consensus | https://finance.yahoo.com/quote/NEE/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.61  low 0.49  high 0.79  n=12  year-ago 0.54
+    next qtr     avg 1.08  low 0.80  high 1.20  n=9  year-ago 1.09
+    current FY   avg 4.03  low 3.96  high 4.19  n=20  year-ago 3.71
+    next FY      avg 4.38  low 4.23  high 4.50  n=22  year-ago 4.03
+  Revenue estimates:
+    current qtr  avg $9,286.7M  low $9,286.7M  high $9,286.7M  n=1  year-ago $6,500.0M
+    next qtr     avg $7,811.2M  low $7,341.0M  high $8,354.7M  n=5  year-ago $6,701.0M
+    current FY   avg $32,906.1M  low $32,284.0M  high $33,458.0M  n=4  year-ago $27,412.0M
+    next FY      avg $34,414.3M  low $29,933.9M  high $39,323.6M  n=16  year-ago $32,906.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.61 / 0.62 / 0.65
+    next qtr     1.08 / 1.06 / 1.08
+    current FY   4.03 / 4.05 / 4.04
+    next FY      4.38 / 4.40 / 4.40
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 1
+    next qtr     1 / 1
+    current FY   0 / 1
+    next FY      2 / 1
+  price targets: mean 95.37  median 100.00  low 56.00  high 114.00
+
+LVS  Yahoo Finance consensus | https://finance.yahoo.com/quote/LVS/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.68  low 0.60  high 0.77  n=14  year-ago 0.78
+    next qtr     avg 0.81  low 0.70  high 0.89  n=14  year-ago 0.85
+    current FY   avg 3.00  low 2.66  high 3.15  n=16  year-ago 3.01
+    next FY      avg 3.35  low 2.82  high 3.69  n=16  year-ago 3.00
+  Revenue estimates:
+    current qtr  avg $3,323.5M  low $3,188.9M  high $3,430.0M  n=14  year-ago $3,331.0M
+    next qtr     avg $3,613.6M  low $3,409.6M  high $3,751.0M  n=13  year-ago $3,649.0M
+    current FY   avg $13,668.9M  low $13,176.0M  high $13,883.0M  n=18  year-ago $13,017.0M
+    next FY      avg $14,255.4M  low $13,114.0M  high $14,794.9M  n=17  year-ago $13,668.9M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.68 / 0.75 / 0.80
+    next qtr     0.81 / 0.85 / 0.86
+    current FY   3.00 / 3.09 / 3.34
+    next FY      3.35 / 3.49 / 3.65
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 3
+    next qtr     0 / 3
+    current FY   0 / 3
+    next FY      0 / 3
+  price targets: mean 53.55  median 55.00  low 40.00  high 68.00
+
+BX  Yahoo Finance consensus | https://finance.yahoo.com/quote/BX/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-22
+  EPS estimates:
+    current qtr  avg 1.26  low 1.14  high 1.33  n=19  year-ago 1.52
+    next qtr     avg 1.72  low 1.58  high 1.89  n=16  year-ago 1.75
+    current FY   avg 5.89  low 5.70  high 6.17  n=23  year-ago 5.57
+    next FY      avg 7.39  low 6.60  high 8.02  n=24  year-ago 5.89
+  Revenue estimates:
+    current qtr  avg $3,205.6M  low $3,096.0M  high $3,336.4M  n=4  year-ago $3,302.3M
+    next qtr     avg $4,318.6M  low $4,164.0M  high $4,497.8M  n=4  year-ago $3,936.0M
+    current FY   avg $14,785.6M  low $14,495.6M  high $15,069.6M  n=6  year-ago $13,076.7M
+    next FY      avg $18,499.7M  low $17,697.7M  high $19,193.8M  n=6  year-ago $14,785.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.26 / 1.36 / 1.45
+    next qtr     1.72 / 1.76 / 1.72
+    current FY   5.89 / 6.02 / 5.91
+    next FY      7.39 / 7.48 / 7.45
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 7
+    next qtr     2 / 3
+    current FY   0 / 8
+    next FY      2 / 7
+  price targets: mean 138.45  median 135.00  low 116.00  high 169.00
+
+MTDR  Yahoo Finance consensus | https://finance.yahoo.com/quote/MTDR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-03
+  EPS estimates:
+    current qtr  avg 1.77  low 0.80  high 2.18  n=22  year-ago 1.36
+    next qtr     avg 2.33  low 1.65  high 2.76  n=17  year-ago 0.87
+    current FY   avg 8.19  low 6.01  high 9.51  n=18  year-ago 5.76
+    next FY      avg 10.15  low 7.76  high 13.31  n=18  year-ago 8.19
+  Revenue estimates:
+    current qtr  avg $1,070.4M  low $915.0M  high $1,283.0M  n=9  year-ago $939.0M
+    next qtr     avg $1,218.0M  low $978.2M  high $1,433.0M  n=6  year-ago $848.0M
+    current FY   avg $4,242.5M  low $3,815.9M  high $4,830.0M  n=7  year-ago $3,696.3M
+    next FY      avg $4,918.6M  low $4,510.2M  high $5,179.0M  n=7  year-ago $4,242.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.77 / 1.82 / 1.60
+    next qtr     2.33 / 1.97 / 1.75
+    current FY   8.19 / 7.81 / 6.84
+    next FY      10.15 / 9.04 / 8.27
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 2
+    next qtr     3 / 1
+    current FY   6 / 2
+    next FY      5 / 2
+  price targets: mean 71.00  median 69.00  low 59.00  high 101.00
+
+TSLA  Yahoo Finance consensus | https://finance.yahoo.com/quote/TSLA/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.49  low 0.33  high 0.83  n=25  year-ago 0.50
+    next qtr     avg 0.47  low 0.24  high 0.90  n=10  year-ago 0.41
+    current FY   avg 1.41  low 1.41  high 1.41  n=1  year-ago 1.66
+    next FY      avg 2.17  low 1.40  high 3.67  n=31  year-ago 1.41
+  Revenue estimates:
+    current qtr  avg $28,802.7M  low $26,761.0M  high $32,421.7M  n=26  year-ago $24,901.0M
+    next qtr     avg $26,223.9M  low $22,759.0M  high $29,362.0M  n=11  year-ago $22,387.0M
+    current FY   avg $107,268.2M  low $96,453.0M  high $114,131.1M  n=40  year-ago $94,827.0M
+    next FY      avg $121,677.7M  low $99,741.0M  high $151,793.5M  n=41  year-ago $107,268.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.45 / 0.45 / 0.46
+    next qtr     0.47 / 0.46 / 0.55
+    current FY   1.41 / 1.78 / 1.84
+    next FY      2.17 / 2.20 / 2.27
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 7
+    next qtr     0 / 4
+    current FY   4 / 9
+    next FY      1 / 10
+  price targets: mean 397.83  median 412.50  low 128.11  high 600.00
+
+VOYA  Yahoo Finance consensus | https://finance.yahoo.com/quote/VOYA/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-02
+  EPS estimates:
+    current qtr  avg 2.59  low 2.44  high 2.95  n=12  year-ago 2.45
+    next qtr     avg 2.67  low 2.33  high 2.92  n=9  year-ago 1.94
+    current FY   avg 9.08  low 8.56  high 9.62  n=12  year-ago 8.85
+    next FY      avg 11.31  low 11.00  high 11.87  n=11  year-ago 9.08
+  Revenue estimates:
+    current qtr  avg $1,957.0M  low $1,897.1M  high $1,984.0M  n=4  year-ago $2,128.0M
+    next qtr     avg $1,979.3M  low $1,911.4M  high $2,006.0M  n=4  year-ago $2,111.0M
+    current FY   avg $7,739.3M  low $7,623.5M  high $7,794.1M  n=5  year-ago $8,189.0M
+    next FY      avg $8,085.4M  low $7,809.2M  high $8,211.4M  n=5  year-ago $7,739.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.59 / 2.57 / 2.49
+    next qtr     2.67 / 2.68 / 2.60
+    current FY   9.08 / 9.11 / 9.38
+    next FY      11.31 / 11.36 / 11.27
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 2
+    next qtr     2 / 1
+    current FY   1 / 6
+    next FY      3 / 3
+  price targets: mean 107.83  median 108.50  low 90.00  high 127.00
+
+RS  Yahoo Finance consensus | https://finance.yahoo.com/quote/RS/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 6.83  low 6.44  high 7.06  n=9  year-ago 3.64
+    next qtr     avg 5.94  low 4.94  high 7.18  n=7  year-ago 2.40
+    current FY   avg 24.12  low 23.05  high 25.30  n=9  year-ago 14.26
+    next FY      avg 24.64  low 21.65  high 27.91  n=9  year-ago 24.12
+  Revenue estimates:
+    current qtr  avg $4,737.5M  low $4,542.0M  high $4,825.0M  n=7  year-ago $3,651.2M
+    next qtr     avg $4,414.3M  low $4,219.0M  high $4,549.0M  n=5  year-ago $3,498.6M
+    current FY   avg $17,819.7M  low $17,583.0M  high $18,079.0M  n=7  year-ago $14,294.3M
+    next FY      avg $17,842.6M  low $17,369.0M  high $18,140.4M  n=7  year-ago $17,819.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  6.83 / 6.79 / 5.23
+    next qtr     5.94 / 5.28 / 4.23
+    current FY   24.12 / 23.46 / 20.07
+    next FY      24.64 / 23.52 / 21.28
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 0
+    next qtr     3 / 0
+    current FY   5 / 0
+    next FY      4 / 0
+  price targets: mean 412.11  median 415.00  low 391.00  high 425.00
+
+FR  Yahoo Finance consensus | https://finance.yahoo.com/quote/FR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.45  low 0.43  high 0.46  n=4  year-ago 0.59
+    next qtr     avg 0.38  low 0.38  high 0.39  n=3  year-ago 1.08
+    current FY   avg 2.52  low 2.51  high 2.52  n=2  year-ago 1.87
+    next FY      avg 1.82  low 1.77  high 1.86  n=3  year-ago 2.52
+  Revenue estimates:
+    current qtr  avg $201.1M  low $195.0M  high $206.5M  n=8  year-ago $188.4M
+    next qtr     avg $206.3M  low $201.7M  high $211.7M  n=6  year-ago $194.8M
+    current FY   avg $787.4M  low $778.7M  high $796.9M  n=9  year-ago $727.1M
+    next FY      avg $839.2M  low $808.1M  high $869.0M  n=9  year-ago $787.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.45 / 0.46 / 0.45
+    next qtr     0.38 / 0.40 / 0.40
+    current FY   2.52 / 2.14 / 2.08
+    next FY      1.82 / 1.86 / 1.89
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     0 / 1
+    current FY   1 / 0
+    next FY      0 / 1
+  price targets: mean 71.44  median 71.50  low 66.00  high 86.00
+
+JBHT  Yahoo Finance consensus | https://finance.yahoo.com/quote/JBHT/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-15
+  EPS estimates:
+    current qtr  avg 2.03  low 1.92  high 2.17  n=21  year-ago 1.90
+    next qtr     avg 1.80  low 1.63  high 1.92  n=13  year-ago 1.49
+    current FY   avg 7.24  low 7.13  high 7.38  n=22  year-ago 6.12
+    next FY      avg 9.83  low 9.00  high 11.02  n=23  year-ago 7.24
+  Revenue estimates:
+    current qtr  avg $3,741.9M  low $3,432.3M  high $3,897.0M  n=18  year-ago $3,096.6M
+    next qtr     avg $3,466.5M  low $3,056.5M  high $3,788.0M  n=8  year-ago $3,056.5M
+    current FY   avg $13,958.1M  low $13,660.9M  high $14,125.0M  n=20  year-ago $11,999.1M
+    next FY      avg $15,467.0M  low $14,458.6M  high $16,588.0M  n=20  year-ago $13,958.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.03 / 2.22 / 2.30
+    next qtr     1.80 / 1.97 / 1.98
+    current FY   7.24 / 7.62 / 7.82
+    next FY      9.83 / 10.04 / 10.12
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 16
+    next qtr     0 / 8
+    current FY   0 / 20
+    next FY      1 / 15
+  price targets: mean 279.52  median 285.00  low 187.00  high 330.00
+
+SSB  Yahoo Finance consensus | https://finance.yahoo.com/quote/SSB/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-21
+  EPS estimates:
+    current qtr  avg 2.45  low 2.36  high 2.55  n=12  year-ago 2.47
+    next qtr     avg 2.42  low 2.26  high 2.55  n=10  year-ago 2.28
+    current FY   avg 9.48  low 9.36  high 9.59  n=13  year-ago 9.50
+    next FY      avg 10.38  low 9.90  high 11.12  n=14  year-ago 9.48
+  Revenue estimates:
+    current qtr  avg $703.1M  low $697.7M  high $710.6M  n=11  year-ago $686.9M
+    next qtr     avg $701.1M  low $683.5M  high $709.0M  n=8  year-ago $662.5M
+    current FY   avg $2,729.8M  low $2,723.7M  high $2,737.6M  n=11  year-ago $2,681.1M
+    next FY      avg $2,910.3M  low $2,862.7M  high $2,986.4M  n=11  year-ago $2,729.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.45 / 2.45 / 2.47
+    next qtr     2.42 / 2.41 / 2.40
+    current FY   9.48 / 9.47 / 9.44
+    next FY      10.38 / 10.37 / 10.34
+  EPS revisions last 30d (up / down):
+    current qtr  5 / 2
+    next qtr     1 / 3
+    current FY   5 / 3
+    next FY      4 / 2
+  price targets: mean 118.64  median 120.00  low 105.00  high 126.00
+
+COR  Yahoo Finance consensus | https://finance.yahoo.com/quote/COR/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-04
+  EPS estimates:
+    current qtr  avg 4.57  low 4.54  high 4.62  n=8  year-ago 3.84
+    next qtr     avg 4.58  low 4.34  high 4.99  n=8  year-ago 4.08
+    current FY   avg 17.88  low 17.85  high 17.91  n=10  year-ago 16.00
+    next FY      avg 19.76  low 19.44  high 20.08  n=9  year-ago 17.88
+  Revenue estimates:
+    current qtr  avg $87,911.8M  low $86,698.3M  high $88,723.0M  n=10  year-ago $83,728.6M
+    next qtr     avg $90,003.9M  low $89,117.8M  high $90,601.6M  n=5  year-ago $85,932.0M
+    current FY   avg $337,030.5M  low $335,741.1M  high $337,766.0M  n=12  year-ago $321,332.8M
+    next FY      avg $351,682.5M  low $344,783.8M  high $356,795.0M  n=7  year-ago $337,030.5M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  4.57 / 4.56 / 4.61
+    next qtr     4.58 / 4.60 / 4.51
+    current FY   17.88 / 17.87 / 17.78
+    next FY      19.76 / 19.81 / 19.80
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 8
+    next qtr     1 / 2
+    current FY   10 / 0
+    next FY      1 / 1
+  price targets: mean 369.08  median 367.50  low 330.00  high 400.00
+
+HLNE  Yahoo Finance consensus | https://finance.yahoo.com/quote/HLNE/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-03
+  EPS estimates:
+    current qtr  avg 1.66  low 1.46  high 1.93  n=7  year-ago 1.54
+    next qtr     avg 1.77  low 1.49  high 2.09  n=7  year-ago 1.55
+    current FY   avg 7.41  low 6.79  high 8.24  n=7  year-ago 5.90
+    next FY      avg 7.40  low 7.15  high 7.67  n=7  year-ago 7.41
+  Revenue estimates:
+    current qtr  avg $215.3M  low $200.9M  high $248.5M  n=6  year-ago $190.9M
+    next qtr     avg $231.0M  low $215.5M  high $253.3M  n=6  year-ago $198.6M
+    current FY   avg $957.3M  low $927.9M  high $1,036.8M  n=6  year-ago $759.0M
+    next FY      avg $1,059.1M  low $1,011.2M  high $1,106.5M  n=7  year-ago $957.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.66 / 1.73 / 1.53
+    next qtr     1.77 / 1.65 / 1.57
+    current FY   7.41 / 7.47 / 6.26
+    next FY      7.40 / 7.38 / 7.36
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 1
+    next qtr     2 / 0
+    current FY   2 / 0
+    next FY      2 / 0
+  price targets: mean 125.75  median 116.50  low 103.00  high 171.00
+
+CSX  Yahoo Finance consensus | https://finance.yahoo.com/quote/CSX/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.53  low 0.50  high 0.56  n=14  year-ago 0.37
+    next qtr     avg 0.50  low 0.46  high 0.54  n=11  year-ago 0.39
+    current FY   avg 2.00  low 1.93  high 2.05  n=14  year-ago 1.54
+    next FY      avg 2.29  low 2.15  high 2.45  n=14  year-ago 2.00
+  Revenue estimates:
+    current qtr  avg $3,963.3M  low $3,895.2M  high $4,027.0M  n=17  year-ago $3,587.0M
+    next qtr     avg $3,907.5M  low $3,783.0M  high $4,118.4M  n=16  year-ago $3,508.0M
+    current FY   avg $15,282.0M  low $14,958.0M  high $15,562.4M  n=20  year-ago $14,092.0M
+    next FY      avg $16,094.6M  low $15,543.0M  high $16,613.0M  n=20  year-ago $15,282.0M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.53 / 0.54 / 0.52
+    next qtr     0.50 / 0.50 / 0.49
+    current FY   2.00 / 2.01 / 1.95
+    next FY      2.29 / 2.28 / 2.23
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 5
+    next qtr     4 / 2
+    current FY   3 / 5
+    next FY      4 / 2
+  price targets: mean 52.67  median 54.00  low 32.00  high 60.00
+
+LUV  Yahoo Finance consensus | https://finance.yahoo.com/quote/LUV/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 0.58  low 0.42  high 0.70  n=21  year-ago 0.11
+    next qtr     avg 0.86  low 0.45  high 1.60  n=19  year-ago 0.58
+    current FY   avg 2.81  low 2.34  high 3.45  n=23  year-ago 0.93
+    next FY      avg 4.29  low 2.95  high 7.68  n=24  year-ago 2.81
+  Revenue estimates:
+    current qtr  avg $8,244.4M  low $8,100.0M  high $8,319.0M  n=16  year-ago $6,949.0M
+    next qtr     avg $8,990.8M  low $8,813.0M  high $9,145.3M  n=15  year-ago $7,442.0M
+    current FY   avg $33,231.2M  low $32,906.9M  high $33,488.5M  n=15  year-ago $28,063.0M
+    next FY      avg $35,018.6M  low $33,645.0M  high $36,998.6M  n=20  year-ago $33,231.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.58 / 0.59 / 0.87
+    next qtr     0.86 / 1.31 / 1.42
+    current FY   2.81 / 3.22 / 3.13
+    next FY      4.29 / 4.73 / 4.88
+  EPS revisions last 30d (up / down):
+    current qtr  6 / 8
+    next qtr     0 / 14
+    current FY   0 / 18
+    next FY      2 / 15
+  price targets: mean 49.18  median 50.00  low 34.00  high 65.00
+
+LEN  Yahoo Finance consensus | https://finance.yahoo.com/quote/LEN/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-12-15
+  EPS estimates:
+    current qtr  avg 1.44  low 1.37  high 1.55  n=11  year-ago 2.03
+    next qtr     avg 0.65  low 0.44  high 0.84  n=7  year-ago 0.88
+    current FY   avg 4.94  low 4.75  high 5.39  n=10  year-ago 8.06
+    next FY      avg 5.22  low 3.95  high 6.98  n=12  year-ago 4.94
+  Revenue estimates:
+    current qtr  avg $8,807.7M  low $8,686.3M  high $8,967.6M  n=7  year-ago $9,367.6M
+    next qtr     avg $6,961.8M  low $6,301.0M  high $7,966.0M  n=5  year-ago $6,619.5M
+    current FY   avg $31,501.4M  low $31,291.8M  high $32,356.0M  n=10  year-ago $34,186.9M
+    next FY      avg $32,441.5M  low $31,401.9M  high $33,882.0M  n=9  year-ago $31,501.4M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.44 / 2.00 / 2.04
+    next qtr     0.65 / 0.84 / 0.85
+    current FY   4.94 / 5.47 / 5.59
+    next FY      5.22 / 6.38 / 6.60
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 9
+    next qtr     0 / 6
+    current FY   0 / 5
+    next FY      0 / 10
+  price targets: mean 77.87  median 75.00  low 63.00  high 120.00
+
+CACI  Yahoo Finance consensus | https://finance.yahoo.com/quote/CACI/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-20
+  EPS estimates:
+    current qtr  avg 6.57  low 6.06  high 6.95  n=15  year-ago 6.85
+    next qtr     avg 7.41  low 6.71  high 8.17  n=13  year-ago 6.81
+    current FY   avg 33.41  low 31.12  high 34.07  n=15  year-ago 29.83
+    next FY      avg 38.02  low 34.55  high 41.31  n=15  year-ago 33.41
+  Revenue estimates:
+    current qtr  avg $2,509.2M  low $2,480.0M  high $2,550.2M  n=15  year-ago $2,287.6M
+    next qtr     avg $2,535.5M  low $2,357.7M  high $2,613.3M  n=14  year-ago $2,220.1M
+    current FY   avg $10,775.1M  low $10,675.0M  high $10,957.7M  n=17  year-ago $9,567.8M
+    next FY      avg $11,491.0M  low $11,184.8M  high $11,840.4M  n=15  year-ago $10,775.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  6.57 / 6.66 / 7.09
+    next qtr     7.41 / 7.51 / 7.09
+    current FY   33.41 / 33.68 / 30.82
+    next FY      38.02 / 37.68 / 35.22
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 4
+    next qtr     2 / 3
+    current FY   1 / 2
+    next FY      2 / 1
+  price targets: mean 739.93  median 715.00  low 540.00  high 892.00
+
+AVT  Yahoo Finance consensus | https://finance.yahoo.com/quote/AVT/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-04
+  EPS estimates:
+    current qtr  avg 2.86  low 2.85  high 2.88  n=3  year-ago 0.84
+    next qtr     avg 2.97  low 2.91  high 3.03  n=3  year-ago 1.05
+    current FY   avg 11.41  low 10.70  high 11.75  n=4  year-ago 5.67
+    next FY      avg 12.46  low 11.52  high 13.52  n=3  year-ago 11.41
+  Revenue estimates:
+    current qtr  avg $9,196.9M  low $9,150.0M  high $9,286.8M  n=3  year-ago $5,898.6M
+    next qtr     avg $9,393.3M  low $9,261.7M  high $9,563.1M  n=3  year-ago $6,319.0M
+    current FY   avg $37,061.9M  low $36,588.1M  high $37,592.5M  n=3  year-ago $27,632.7M
+    next FY      avg $39,226.3M  low $38,908.2M  high $39,544.5M  n=2  year-ago $37,061.9M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.86 / 2.63 / 1.91
+    next qtr     2.97 / 2.74 / 2.00
+    current FY   11.41 / 10.57 / 7.97
+    next FY      12.46 / 11.05 / 9.28
+  EPS revisions last 30d (up / down):
+    current qtr  3 / 0
+    next qtr     3 / 0
+    current FY   4 / 0
+    next FY      0 / 0
+  price targets: mean 106.25  median 112.50  low 80.00  high 120.00
+
+SYNA  Yahoo Finance consensus | https://finance.yahoo.com/quote/SYNA/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-11-05
+  EPS estimates:
+    current qtr  avg 1.25  low 1.12  high 1.35  n=12  year-ago 1.09
+    next qtr     avg 1.36  low 1.15  high 1.52  n=12  year-ago 1.21
+    current FY   avg 5.18  low 4.64  high 5.61  n=11  year-ago 4.58
+    next FY      avg 6.58  low 5.86  high 6.98  n=6  year-ago 5.18
+  Revenue estimates:
+    current qtr  avg $315.7M  low $305.0M  high $320.0M  n=10  year-ago $292.5M
+    next qtr     avg $328.4M  low $310.0M  high $341.8M  n=10  year-ago $302.5M
+    current FY   avg $1,288.8M  low $1,228.0M  high $1,315.0M  n=9  year-ago $1,197.2M
+    next FY      avg $1,467.2M  low $1,391.0M  high $1,570.3M  n=6  year-ago $1,288.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.25 / 1.25 / 1.26
+    next qtr     1.36 / 1.35 / 1.37
+    current FY   5.18 / 5.18 / 5.27
+    next FY      6.58 / 6.58 / 6.54
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     1 / 0
+    current FY   0 / 2
+    next FY      1 / 0
+  price targets: mean 129.33  median 123.00  low 105.00  high 170.00
+
+SON  Yahoo Finance consensus | https://finance.yahoo.com/quote/SON/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 1.19  low 1.11  high 1.28  n=5  year-ago 1.05
+    next qtr     avg 1.25  low 1.16  high 1.30  n=4  year-ago 1.20
+    current FY   avg 5.63  low 5.55  high 5.75  n=5  year-ago 5.71
+    next FY      avg 6.13  low 5.84  high 6.35  n=9  year-ago 5.63
+  Revenue estimates:
+    current qtr  avg $1,790.5M  low $1,755.0M  high $1,816.0M  n=9  year-ago $1,768.0M
+    next qtr     avg $1,746.6M  low $1,727.4M  high $1,758.0M  n=4  year-ago $1,676.4M
+    current FY   avg $7,427.6M  low $7,385.9M  high $7,468.0M  n=9  year-ago $7,518.8M
+    next FY      avg $7,589.3M  low $7,434.9M  high $7,719.3M  n=8  year-ago $7,427.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.19 / 1.16 / 1.20
+    next qtr     1.25 / 1.31 / 1.29
+    current FY   5.63 / 5.81 / 5.83
+    next FY      6.13 / 6.33 / 6.41
+  EPS revisions last 30d (up / down):
+    current qtr  4 / 0
+    next qtr     1 / 0
+    current FY   0 / 4
+    next FY      0 / 4
+  price targets: mean 59.62  median 61.00  low 51.00  high 63.00
+
+KNX  Yahoo Finance consensus | https://finance.yahoo.com/quote/KNX/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-20
+  EPS estimates:
+    current qtr  avg 0.82  low 0.75  high 0.87  n=17  year-ago 0.31
+    next qtr     avg 0.74  low 0.51  high 0.97  n=11  year-ago 0.09
+    current FY   avg 2.31  low 2.20  high 2.49  n=20  year-ago 1.26
+    next FY      avg 4.00  low 3.35  high 4.61  n=20  year-ago 2.31
+  Revenue estimates:
+    current qtr  avg $2,129.3M  low $1,994.6M  high $2,245.2M  n=14  year-ago $1,856.3M
+    next qtr     avg $2,066.3M  low $1,921.0M  high $2,196.0M  n=7  year-ago $1,850.2M
+    current FY   avg $8,247.1M  low $8,065.7M  high $8,400.6M  n=18  year-ago $7,469.7M
+    next FY      avg $8,945.4M  low $8,389.0M  high $9,545.1M  n=18  year-ago $8,247.1M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.82 / 0.81 / 0.76
+    next qtr     0.74 / 0.73 / 0.68
+    current FY   2.31 / 2.32 / 2.09
+    next FY      4.00 / 4.03 / 3.81
+  EPS revisions last 30d (up / down):
+    current qtr  6 / 1
+    next qtr     2 / 2
+    current FY   6 / 7
+    next FY      3 / 6
+  price targets: mean 85.10  median 88.50  low 57.00  high 100.00
+
+ARW  Yahoo Finance consensus | https://finance.yahoo.com/quote/ARW/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-29
+  EPS estimates:
+    current qtr  avg 4.96  low 4.93  high 5.00  n=4  year-ago 2.41
+    next qtr     avg 6.00  low 5.32  high 6.31  n=4  year-ago 4.39
+    current FY   avg 21.64  low 20.93  high 21.98  n=4  year-ago 11.02
+    next FY      avg 23.93  low 22.44  high 26.46  n=4  year-ago 21.64
+  Revenue estimates:
+    current qtr  avg $10,007.2M  low $9,900.0M  high $10,113.4M  n=4  year-ago $7,712.5M
+    next qtr     avg $10,572.1M  low $10,353.7M  high $10,862.0M  n=4  year-ago $8,746.4M
+    current FY   avg $40,045.2M  low $39,750.0M  high $40,413.0M  n=4  year-ago $30,852.9M
+    next FY      avg $43,166.2M  low $42,380.5M  high $44,048.0M  n=4  year-ago $40,045.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  4.96 / 4.62 / 4.62
+    next qtr     6.00 / 5.52 / 5.51
+    current FY   21.64 / 19.81 / 19.80
+    next FY      23.93 / 21.32 / 21.30
+  EPS revisions last 30d (up / down):
+    current qtr  3 / 0
+    next qtr     2 / 0
+    current FY   3 / 0
+    next FY      4 / 0
+  price targets: mean 235.00  median 245.00  low 200.00  high 250.00
+
+GL  Yahoo Finance consensus | https://finance.yahoo.com/quote/GL/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 3.78  low 3.68  high 3.97  n=9  year-ago 3.39
+    next qtr     avg 3.87  low 3.65  high 4.15  n=9  year-ago 3.43
+    current FY   avg 15.72  low 15.57  high 15.89  n=11  year-ago 14.52
+    next FY      avg 16.51  low 16.13  high 16.85  n=11  year-ago 15.72
+  Revenue estimates:
+    current qtr  avg $1,630.5M  low $1,626.0M  high $1,635.0M  n=2  year-ago $1,519.6M
+    next qtr     avg $1,686.0M  low $1,686.0M  high $1,686.0M  n=1  year-ago $1,559.9M
+    current FY   avg $6,391.8M  low $6,386.8M  high $6,394.6M  n=3  year-ago $5,994.3M
+    next FY      avg $6,771.9M  low $6,682.5M  high $6,853.0M  n=3  year-ago $6,391.8M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  3.78 / 3.78 / 3.82
+    next qtr     3.87 / 3.90 / 3.91
+    current FY   15.72 / 15.73 / 15.65
+    next FY      16.51 / 16.50 / 16.61
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 1
+    next qtr     0 / 2
+    current FY   0 / 2
+    next FY      0 / 2
+  price targets: mean 193.18  median 192.00  low 166.00  high 225.00
+
+LH  Yahoo Finance consensus | https://finance.yahoo.com/quote/LH/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-28
+  EPS estimates:
+    current qtr  avg 4.64  low 4.49  high 4.69  n=14  year-ago 4.18
+    next qtr     avg 4.47  low 4.37  high 4.59  n=14  year-ago 4.07
+    current FY   avg 18.35  low 18.10  high 18.50  n=18  year-ago 16.44
+    next FY      avg 19.78  low 18.74  high 20.27  n=18  year-ago 18.35
+  Revenue estimates:
+    current qtr  avg $3,759.1M  low $3,748.9M  high $3,775.1M  n=12  year-ago $3,563.5M
+    next qtr     avg $3,718.9M  low $3,681.0M  high $3,737.1M  n=12  year-ago $3,515.8M
+    current FY   avg $14,749.3M  low $14,722.0M  high $14,790.2M  n=16  year-ago $13,951.7M
+    next FY      avg $15,465.1M  low $15,295.7M  high $15,717.2M  n=16  year-ago $14,749.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  4.64 / 4.65 / 4.61
+    next qtr     4.47 / 4.45 / 4.40
+    current FY   18.35 / 18.35 / 18.01
+    next FY      19.78 / 19.84 / 19.41
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 2
+    next qtr     2 / 0
+    current FY   3 / 0
+    next FY      3 / 3
+  price targets: mean 345.12  median 355.00  low 293.00  high 385.00
+
+ACI  Yahoo Finance consensus | https://finance.yahoo.com/quote/ACI/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2027-01-06
+  EPS estimates:
+    current qtr  avg 0.62  low 0.52  high 0.68  n=17  year-ago 0.72
+    next qtr     avg 0.35  low 0.25  high 0.41  n=17  year-ago 0.48
+    current FY   avg 1.75  low 1.55  high 1.82  n=18  year-ago 2.18
+    next FY      avg 1.69  low 1.35  high 1.98  n=16  year-ago 1.75
+  Revenue estimates:
+    current qtr  avg $19,172.5M  low $18,961.0M  high $19,418.1M  n=14  year-ago $19,123.7M
+    next qtr     avg $18,759.1M  low $17,844.0M  high $19,055.8M  n=14  year-ago $20,252.2M
+    current FY   avg $81,835.2M  low $80,889.0M  high $82,880.6M  n=16  year-ago $83,172.5M
+    next FY      avg $82,228.9M  low $80,361.0M  high $84,588.9M  n=16  year-ago $81,835.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.62 / 0.66 / 0.78
+    next qtr     0.35 / 0.40 / 0.49
+    current FY   1.75 / 1.79 / 2.27
+    next FY      1.69 / 1.85 / 2.45
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 1
+    next qtr     0 / 1
+    current FY   0 / 1
+    next FY      1 / 0
+  price targets: mean 14.06  median 13.00  low 10.00  high 24.00
+
+NCLH  Yahoo Finance consensus | https://finance.yahoo.com/quote/NCLH/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-29
+  EPS estimates:
+    current qtr  avg 0.94  low 0.90  high 1.06  n=20  year-ago 1.20
+    next qtr     avg -0.10  low -0.18  high -0.04  n=20  year-ago 0.28
+    current FY   avg 1.55  low 1.49  high 1.60  n=26  year-ago 2.11
+    next FY      avg 1.50  low 0.80  high 1.95  n=26  year-ago 1.55
+  Revenue estimates:
+    current qtr  avg $2,879.7M  low $2,840.0M  high $2,948.2M  n=18  year-ago $2,938.1M
+    next qtr     avg $2,204.1M  low $2,143.0M  high $2,337.1M  n=18  year-ago $2,244.4M
+    current FY   avg $10,058.3M  low $9,960.9M  high $10,257.0M  n=21  year-ago $9,827.6M
+    next FY      avg $10,551.1M  low $10,259.4M  high $10,939.6M  n=21  year-ago $10,058.3M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  0.94 / 0.90 / 0.90
+    next qtr     -0.10 / -0.08 / 0.13
+    current FY   1.55 / 1.54 / 1.67
+    next FY      1.50 / 1.69 / 2.00
+  EPS revisions last 30d (up / down):
+    current qtr  5 / 1
+    next qtr     0 / 6
+    current FY   2 / 2
+    next FY      0 / 8
+  price targets: mean 18.71  median 18.50  low 13.00  high 26.00
+
+META  Yahoo Finance consensus | https://finance.yahoo.com/quote/META/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-21
+  EPS estimates:
+    current qtr  avg 5.46  low 2.61  high 7.64  n=44  year-ago 1.05
+    next qtr     avg 8.28  low 6.84  high 9.66  n=43  year-ago 8.88
+    current FY   avg 30.41  low 27.47  high 33.65  n=55  year-ago 23.49
+    next FY      avg 33.76  low 28.57  high 41.50  n=54  year-ago 30.41
+  Revenue estimates:
+    current qtr  avg $63,405.7M  low $61,702.0M  high $65,278.0M  n=49  year-ago $51,242.0M
+    next qtr     avg $73,753.4M  low $71,681.0M  high $75,897.0M  n=47  year-ago $59,893.0M
+    current FY   avg $254,231.7M  low $251,029.0M  high $258,738.0M  n=61  year-ago $200,966.0M
+    next FY      avg $307,103.5M  low $288,178.0M  high $353,304.0M  n=60  year-ago $254,231.7M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  5.46 / 6.53 / 7.05
+    next qtr     8.28 / 8.22 / 8.50
+    current FY   30.41 / 31.34 / 33.07
+    next FY      33.76 / 33.87 / 35.16
+  EPS revisions last 30d (up / down):
+    current qtr  0 / 3
+    next qtr     3 / 1
+    current FY   4 / 6
+    next FY      7 / 3
+  price targets: mean 817.87  median 830.00  low 580.00  high 1,050.00
+
+RTX  Yahoo Finance consensus | https://finance.yahoo.com/quote/RTX/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-20
+  EPS estimates:
+    current qtr  avg 1.82  low 1.72  high 1.89  n=18  year-ago 1.55
+    next qtr     avg 1.80  low 1.72  high 1.86  n=9  year-ago 1.78
+    current FY   avg 7.48  low 7.11  high 7.82  n=24  year-ago 6.29
+    next FY      avg 7.97  low 7.56  high 8.33  n=23  year-ago 7.48
+  Revenue estimates:
+    current qtr  avg $25,729.5M  low $25,167.0M  high $26,417.5M  n=16  year-ago $24,238.0M
+    next qtr     avg $23,696.1M  low $23,250.0M  high $23,973.0M  n=7  year-ago $22,076.0M
+    current FY   avg $96,972.6M  low $95,590.0M  high $98,166.5M  n=21  year-ago $88,603.0M
+    next FY      avg $104,360.7M  low $100,118.6M  high $108,157.0M  n=21  year-ago $96,972.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  1.82 / 1.83 / 1.79
+    next qtr     1.80 / 1.77 / 1.74
+    current FY   7.48 / 7.24 / 6.98
+    next FY      7.97 / 7.85 / 7.59
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 3
+    next qtr     0 / 1
+    current FY   3 / 1
+    next FY      2 / 4
+  price targets: mean 229.13  median 235.00  low 200.00  high 250.00
+
+R  Yahoo Finance consensus | https://finance.yahoo.com/quote/R/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-22
+  EPS estimates:
+    current qtr  avg 4.15  low 4.07  high 4.20  n=11  year-ago 3.57
+    next qtr     avg 4.25  low 3.97  high 4.38  n=11  year-ago 3.59
+    current FY   avg 14.67  low 14.28  high 14.80  n=11  year-ago 12.92
+    next FY      avg 17.62  low 16.02  high 18.85  n=11  year-ago 14.67
+  Revenue estimates:
+    current qtr  avg $3,380.6M  low $3,283.5M  high $3,549.4M  n=7  year-ago $3,171.0M
+    next qtr     avg $3,403.6M  low $3,316.3M  high $3,629.9M  n=7  year-ago $3,175.0M
+    current FY   avg $13,291.6M  low $13,072.9M  high $13,652.3M  n=8  year-ago $12,665.0M
+    next FY      avg $13,964.5M  low $13,018.0M  high $14,793.9M  n=8  year-ago $13,291.6M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  4.15 / 4.15 / 4.18
+    next qtr     4.25 / 4.26 / 4.21
+    current FY   14.67 / 14.67 / 14.64
+    next FY      17.62 / 17.72 / 17.61
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 5
+    next qtr     5 / 3
+    current FY   4 / 3
+    next FY      4 / 4
+  price targets: mean 288.33  median 287.00  low 245.00  high 320.00
+
+ALLE  Yahoo Finance consensus | https://finance.yahoo.com/quote/ALLE/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-22
+  EPS estimates:
+    current qtr  avg 2.26  low 2.19  high 2.34  n=9  year-ago 1.94
+    next qtr     avg 2.12  low 2.06  high 2.21  n=5  year-ago 1.80
+    current FY   avg 8.97  low 8.86  high 9.08  n=11  year-ago 8.14
+    next FY      avg 9.79  low 9.30  high 10.35  n=11  year-ago 8.97
+  Revenue estimates:
+    current qtr  avg $1,096.6M  low $1,083.7M  high $1,115.0M  n=8  year-ago $1,033.2M
+    next qtr     avg $1,085.5M  low $1,079.0M  high $1,093.5M  n=4  year-ago $1,033.6M
+    current FY   avg $4,413.2M  low $4,357.7M  high $4,459.1M  n=10  year-ago $4,067.3M
+    next FY      avg $4,624.4M  low $4,523.6M  high $4,715.0M  n=10  year-ago $4,413.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.26 / 2.26 / 2.25
+    next qtr     2.12 / 2.12 / 2.06
+    current FY   8.97 / 8.95 / 8.80
+    next FY      9.79 / 9.77 / 9.58
+  EPS revisions last 30d (up / down):
+    current qtr  2 / 1
+    next qtr     4 / 0
+    current FY   3 / 1
+    next FY      2 / 2
+  price targets: mean 178.00  median 170.00  low 160.00  high 202.00
+
+DGX  Yahoo Finance consensus | https://finance.yahoo.com/quote/DGX/analysis | retrieved 2026-10-22
+  next earnings (Yahoo, may be estimated): 2026-10-22
+  EPS estimates:
+    current qtr  avg 2.87  low 2.82  high 2.94  n=14  year-ago 2.60
+    next qtr     avg 2.68  low 2.61  high 2.74  n=14  year-ago 2.42
+    current FY   avg 11.20  low 11.12  high 11.49  n=16  year-ago 9.85
+    next FY      avg 12.04  low 11.79  high 12.56  n=16  year-ago 11.20
+  Revenue estimates:
+    current qtr  avg $3,052.1M  low $2,988.0M  high $3,097.1M  n=12  year-ago $2,816.0M
+    next qtr     avg $3,016.6M  low $2,977.1M  high $3,123.8M  n=12  year-ago $2,806.0M
+    current FY   avg $12,016.2M  low $11,956.9M  high $12,134.6M  n=15  year-ago $11,035.0M
+    next FY      avg $12,566.8M  low $12,466.4M  high $12,766.0M  n=15  year-ago $12,016.2M
+  EPS trend (current / 30d ago / 90d ago):
+    current qtr  2.87 / 2.86 / 2.80
+    next qtr     2.68 / 2.68 / 2.62
+    current FY   11.20 / 11.19 / 10.77
+    next FY      12.04 / 12.06 / 11.67
+  EPS revisions last 30d (up / down):
+    current qtr  1 / 0
+    next qtr     2 / 0
+    current FY   2 / 1
+    next FY      2 / 3
+  price targets: mean 251.73  median 251.00  low 232.00  high 265.00
+
