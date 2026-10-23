@@ -1,4 +1,4 @@
 id,date,ticker,direction,thesis,catalyst,catalyst_date,entry,stop,size_pct,exit,exit_date,outcome,lessons
-1,2026-10-12,CCI,short,10-09 +15.6% on SpaceX/Grain 800MHz deal prices tower leases SpaceX has not signed; carriers (93% of site rental revenue) fell 10-13% on same news,CCI Q3 2026 results; exit 10-23 close or on kill signal; exit 10-20 if date unconfirmed,2026-10-21,80.4400,85.0,4.0,,,OPEN,
+1,2026-10-12,CCI,short,10-09 +15.6% on SpaceX/Grain 800MHz deal prices tower leases SpaceX has not signed; carriers (93% of site rental revenue) fell 10-13% on same news,CCI Q3 2026 results; exit 10-23 close or on kill signal; exit 10-20 if date unconfirmed,2026-10-21,80.4400,85.0,4.0,91.0200,2026-10-23,LOSS,
 2,2026-10-13,FANG,long,"Q3 adj EPS ~5.95 from filed 10-08 inputs vs 5.06 Yahoo consensus; hedged vs XOP (id 3), linked exits",FANG Q3 results 11-02 after close; exit 11-04 close or kill signal; exit both legs 10-30 close if date unconfirmed by company/SEC,2026-11-02,198.0000,175.0,2.4,,,OPEN,
 3,2026-10-13,XOP,short,"Sector hedge for FANG long (id 2), ratio 1.0; no standalone view",Exits with FANG (linked),2026-11-02,198.2500,214.0,2.4,,,OPEN,
